@@ -1,0 +1,4818 @@
+[
+  {
+    "id": 0,
+    "name": "Grim Fang (Short Sword)",
+    "img": "https://docs.median-xl.com/images/baseitems/invssd.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (4 - 5) to 7"],
+        "requirement": ["Required Level: 12", "Item Level: 1", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+(18 to 29)% Enhanced Damage",
+          "(3 to 5)% Life stolen per Hit",
+          "-3% to Enemy Poison Resistance",
+          "+(1 to 3) to Plague (Paladin Only)",
+          "+10 to Strength",
+          "Poison Resist +(11 to 15)%",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (12 - 13) to (12 - 13)"],
+        "requirement": ["Required Level: 19", "Required Strength: 18", "Item Level: 21", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+(41 to 52)% Enhanced Damage",
+          "(9 to 11)% Life stolen per Hit",
+          "-6% to Enemy Poison Resistance",
+          "+(3 to 6) to Plague (Paladin Only)",
+          "+20 to Strength",
+          "Poison Resist +(21 to 25)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (22 - 24) to (24 - 26)"],
+        "requirement": ["Required Level: 37", "Required Strength: 49", "Item Level: 41", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+(64 to 75)% Enhanced Damage",
+          "(15 to 17)% Life stolen per Hit",
+          "-9% to Enemy Poison Resistance",
+          "+(7 to 12) to Plague (Paladin Only)",
+          "+30 to Strength",
+          "Poison Resist +(31 to 35)%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (29 - 31) to (33 - 35)"],
+        "requirement": ["Required Level: 46", "Required Strength: 104", "Item Level: 73", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+(75 to 86)% Enhanced Damage",
+          "(18 to 20)% Life stolen per Hit",
+          "-12% to Enemy Poison Resistance",
+          "+(13 to 18) to Plague (Paladin Only)",
+          "+40 to Strength",
+          "Poison Resist +(36 to 40)%",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Al Nath (Scimitar)",
+    "img": "https://docs.median-xl.com/images/baseitems/invscm.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (6 - 7) to (18 - 29)"],
+        "requirement": ["Required Level: 2", "Required Strength: 25", "Item Level: 4", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "15% Attack Speed",
+          "+(31 to 50)% Enhanced Damage",
+          "+(11 to 20) to Maximum Damage",
+          "(41 to 60)% Bonus to Attack Rating",
+          "Adds (6 to 10)-(11 to 13) fire damage",
+          "Slow Target (3 to 5)%",
+          "(3 to 5)% to Strength",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (17 - 19) to (40 - 51)"],
+        "requirement": ["Required Level: 20", "Required Strength: 48", "Item Level: 22", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "25% Attack Speed",
+          "+(61 to 80)% Enhanced Damage",
+          "+(21 to 30) to Maximum Damage",
+          "(71 to 90)% Bonus to Attack Rating",
+          "Adds (16 to 20)-(31 to 35) fire damage",
+          "Slow Target (9 to 11)%",
+          "(9 to 11)% to Strength",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (32 - 35) to (67 - 79)"],
+        "requirement": ["Required Level: 39", "Required Strength: 104", "Item Level: 43", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "35% Attack Speed",
+          "+(91 to 110)% Enhanced Damage",
+          "+(31 to 40) to Maximum Damage",
+          "(101 to 120)% Bonus to Attack Rating",
+          "Adds (46 to 55)-(86 to 100) fire damage",
+          "Slow Target (15 to 17)%",
+          "(15 to 17)% to Strength",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (44 - 48) to (91 - 105)"],
+        "requirement": ["Required Level: 48", "Required Strength: 212", "Item Level: 76", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "50% Attack Speed",
+          "+(121 to 140)% Enhanced Damage",
+          "+(41 to 50) to Maximum Damage",
+          "(131 to 150)% Bonus to Attack Rating",
+          "Adds (121 to 160)-(261 to 300) fire damage",
+          "Slow Target (18 to 20)%",
+          "(18 to 20)% to Strength",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Wardance (Saber)",
+    "img": "https://docs.median-xl.com/images/baseitems/invsbr.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: 6 to 8"],
+        "requirement": ["Required Level: 4", "Required Strength: 37", "Item Level: 6", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "(31 to 35)% Attack Speed",
+          "(4 to 6)% Chance of Crushing Blow",
+          "+(51 to 200) Defense vs. Missile",
+          "Physical Resist 1%",
+          "Total Character Defense 15%",
+          "+2% to Experience Gained",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: 13 to 14"],
+        "requirement": ["Required Level: 22", "Required Strength: 64", "Item Level: 25", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "30% Attack Speed",
+          "(8 to 10)% Chance of Crushing Blow",
+          "+(301 to 500) Defense vs. Missile",
+          "Physical Resist 2%",
+          "Total Character Defense 30%",
+          "+3% to Experience Gained",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: 20 to 23"],
+        "requirement": ["Required Level: 41", "Required Strength: 132", "Item Level: 45", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "45% Attack Speed",
+          "(11 to 13)% Chance of Crushing Blow",
+          "+(701 to 900) Defense vs. Missile",
+          "Physical Resist 3%",
+          "Total Character Defense 45%",
+          "+4% to Experience Gained",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: 23 to 27"],
+        "requirement": ["Required Level: 50", "Required Strength: 265", "Item Level: 79", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "60% Attack Speed",
+          "(14 to 16)% Chance of Crushing Blow",
+          "+(1001 to 1200) Defense vs. Missile",
+          "Physical Resist 4%",
+          "Total Character Defense 60%",
+          "+5% to Experience Gained",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Finis Terra (Falchion)",
+    "img": "https://docs.median-xl.com/images/baseitems/invflc.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (9 - 11) to (11 - 12)"],
+        "requirement": ["Required Strength: 49", "Item Level: 8", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "3% Chance to cast level 2 Shower of Rocks on Melee Attack",
+          "+(24 to 40)% Enhanced Damage",
+          "Adds 10-16 fire damage",
+          "Adds 10-16 lightning damage",
+          "Adds 10-16 cold damage",
+          "Fire Resist +(11 to 15)%",
+          "Poison Resist +(11 to 15)%",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (22 - 24) to (26 - 29)"],
+        "requirement": ["Required Strength: 79", "Item Level: 27", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "7% Chance to cast level 6 Shower of Rocks on Melee Attack",
+          "+(58 to 75)% Enhanced Damage",
+          "Adds 30-50 fire damage",
+          "Adds 30-50 lightning damage",
+          "Adds 30-50 cold damage",
+          "Fire Resist +(21 to 25)%",
+          "Poison Resist +(21 to 25)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (42 - 45) to (49 - 54)"],
+        "requirement": ["Required Strength: 160", "Item Level: 47", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "11% Chance to cast level 10 Shower of Rocks on Melee Attack",
+          "+(92 to 109)% Enhanced Damage",
+          "Adds 90-150 fire damage",
+          "Adds 90-150 lightning damage",
+          "Adds 90-150 cold damage",
+          "Fire Resist +(31 to 35)%",
+          "Poison Resist +(31 to 35)%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (54 - 58) to (64 - 70)"],
+        "requirement": ["Required Strength: 319", "Item Level: 82", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "13% Chance to cast level 12 Shower of Rocks on Melee Attack",
+          "+(109 to 126)% Enhanced Damage",
+          "Adds 280-440 fire damage",
+          "Adds 280-440 lightning damage",
+          "Adds 280-440 cold damage",
+          "Fire Resist +(36 to 40)%",
+          "Poison Resist +(36 to 40)%",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Raptor Beak (Broad Sword)",
+    "img": "https://docs.median-xl.com/images/baseitems/invbsd.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (12 - 14) to (25 - 27)"],
+        "requirement": ["Required Strength: 61", "Item Level: 10", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "20% Attack Speed",
+          "+(41 to 60)% Enhanced Damage",
+          "+10 to Maximum Damage",
+          "+(11 to 15) to Vitality",
+          "+1 Mana on Striking",
+          "+(11 to 15) Life when Struck by an Enemy",
+          "(4 to 7)% Gold Find",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (27 - 30) to (52 - 56)"],
+        "requirement": ["Required Strength: 95", "Item Level: 27", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "30% Attack Speed",
+          "+(71 to 90)% Enhanced Damage",
+          "+20 to Maximum Damage",
+          "+(21 to 25) to Vitality",
+          "+1 Mana on Striking",
+          "+(21 to 40) Life when Struck by an Enemy",
+          "(9 to 12)% Gold Find",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (50 - 55) to (88 - 93)"],
+        "requirement": ["Required Strength: 188", "Item Level: 49", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "40% Attack Speed",
+          "+(101 to 120)% Enhanced Damage",
+          "+30 to Maximum Damage",
+          "+(31 to 35) to Vitality",
+          "+2 Mana on Striking",
+          "+(51 to 70) Life when Struck by an Enemy",
+          "(14 to 17)% Gold Find",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (66 - 72) to (120 - 127)"],
+        "requirement": ["Required Strength: 373", "Item Level: 84", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "50% Attack Speed",
+          "+(131 to 150)% Enhanced Damage",
+          "+40 to Maximum Damage",
+          "+(36 to 40) to Vitality",
+          "+2 Mana on Striking",
+          "+(81 to 100) Life when Struck by an Enemy",
+          "(17 to 19)% Gold Find",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Herr Donner (Long Sword)",
+    "img": "https://docs.median-xl.com/images/baseitems/invlsd.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: 10 to 12"],
+        "requirement": ["Required Level: 8", "Required Strength: 58 to 72", "Item Level: 12", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+1 to All Skills",
+          "+(6 to 10)% to Physical/Magic Spell Damage",
+          "+(11 to 20) to Energy",
+          "Physical Resist 1%",
+          "2% Reanimate as: Dark Templar",
+          "-(1 to 20)% Magic Find",
+          "Requirements -(1 to 20)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: 18 to 21"],
+        "requirement": ["Required Level: 26", "Required Strength: 77 to 97", "Item Level: 29", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+(1 to 2) to All Skills",
+          "+(16 to 20)% to Physical/Magic Spell Damage",
+          "+(21 to 30) to Energy",
+          "Physical Resist 2%",
+          "3% Reanimate as: Dark Templar",
+          "-(11 to 30)% Magic Find",
+          "Requirements -(11 to 30)%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: 28 to 33"],
+        "requirement": ["Required Level: 45", "Required Strength: 140 to 181", "Item Level: 50", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+2 to All Skills",
+          "+(21 to 25)% to Physical/Magic Spell Damage",
+          "+(31 to 40) to Energy",
+          "Physical Resist 3%",
+          "4% Reanimate as: Dark Templar",
+          "-(16 to 35)% Magic Find",
+          "Requirements -(16 to 35)%",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: 33 to 39"],
+        "requirement": ["Required Level: 54", "Required Strength: 256 to 337", "Item Level: 85", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+3 to All Skills",
+          "+(31 to 35)% to Physical/Magic Spell Damage",
+          "+(41 to 50) to Energy",
+          "Physical Resist 4%",
+          "5% Reanimate as: Dark Templar",
+          "-(21 to 40)% Magic Find",
+          "Requirements -(21 to 40)%",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Lachdanan&apos;s Avenger (War Sword)",
+    "img": "https://docs.median-xl.com/images/baseitems/invwsd.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (17 - 19) to (20 - 23)"],
+        "requirement": ["Required Strength: 85", "Item Level: 18", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "4% Chance to cast level 3 Spike Nova on Melee Attack",
+          "+1 to Paladin Skill Levels",
+          "+(61 to 80)% Enhanced Damage",
+          "+(101 to 125)% Damage to Demons",
+          "+(101 to 125)% Damage to Undead",
+          "(1 to 2)% Chance of Crushing Blow",
+          "+(16 to 25) to Strength",
+          "+(16 to 25) to Dexterity",
+          "Elemental Resists +(11 to 15)%",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (38 - 41) to (46 - 50)"],
+        "requirement": ["Required Strength: 125", "Item Level: 34", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "5% Chance to cast level 11 Spike Nova on Melee Attack",
+          "+(1 to 2) to Paladin Skill Levels",
+          "+(101 to 120)% Enhanced Damage",
+          "+(176 to 200)% Damage to Demons",
+          "+(176 to 200)% Damage to Undead",
+          "(3 to 4)% Chance of Crushing Blow",
+          "+(36 to 45) to Strength",
+          "+(36 to 45) to Dexterity",
+          "Elemental Resists +(21 to 25)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (72 - 78) to (84 - 91)"],
+        "requirement": ["Required Strength: 244", "Item Level: 54", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "6% Chance to cast level 19 Spike Nova on Melee Attack",
+          "+(2 to 3) to Paladin Skill Levels",
+          "+(141 to 160)% Enhanced Damage",
+          "+(226 to 250)% Damage to Demons",
+          "+(226 to 250)% Damage to Undead",
+          "(5 to 6)% Chance of Crushing Blow",
+          "+(56 to 65) to Strength",
+          "+(56 to 65) to Dexterity",
+          "Elemental Resists +(31 to 35)%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (98 - 105) to (118 - 126)"],
+        "requirement": ["Required Strength: 481", "Item Level: 90", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "7% Chance to cast level 23 Spike Nova on Melee Attack",
+          "+3 to Paladin Skill Levels",
+          "+(181 to 200)% Enhanced Damage",
+          "+(276 to 300)% Damage to Demons",
+          "+(276 to 300)% Damage to Undead",
+          "(7 to 8)% Chance of Crushing Blow",
+          "+(66 to 75) to Strength",
+          "+(66 to 75) to Dexterity",
+          "Elemental Resists +(36 to 40)%",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "The Overlord (Two-Handed Sword)",
+    "img": "https://docs.median-xl.com/images/baseitems/inv2hs.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (8 - 9) to (19 - 23)", "Two-Hand Damage: (8 - 9) to (24 - 29)"],
+        "requirement": ["Required Strength: 25", "Item Level: 1", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+2 to Amazon Skill Levels",
+          "+(61 to 90)% Enhanced Damage",
+          "+(8 to 10) to Maximum Damage",
+          "+(2 to 3) to Wyrd",
+          "Slow Target (7 to 10)%",
+          "(2 to 5)% to Strength",
+          "(21 to 25)% Chance of Uninterruptable Attack",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (17 - 18) to (35 - 41)", "Two-Hand Damage: (24 - 27) to (40 - 47)"],
+        "requirement": ["Required Strength: 48", "Item Level: 20", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+3 to Amazon Skill Levels",
+          "+(91 to 110)% Enhanced Damage",
+          "+(16 to 20) to Maximum Damage",
+          "+(5 to 6) to Wyrd",
+          "Slow Target (11 to 15)%",
+          "(10 to 13)% to Strength",
+          "(31 to 35)% Chance of Uninterruptable Attack",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (29 - 32) to (59 - 66)", "Two-Hand Damage: (44 - 48) to (72 - 80)"],
+        "requirement": ["Required Strength: 104", "Item Level: 41", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+5 to Amazon Skill Levels",
+          "+(111 to 130)% Enhanced Damage",
+          "+(26 to 30) to Maximum Damage",
+          "+(8 to 9) to Wyrd",
+          "Slow Target (16 to 20)%",
+          "(18 to 21)% to Strength",
+          "(41 to 45)% Chance of Uninterruptable Attack",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (39 - 42) to (82 - 90)", "Two-Hand Damage: (57 - 62) to (98 - 107)"],
+        "requirement": ["Required Strength: 212", "Item Level: 73", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+7 to Amazon Skill Levels",
+          "+(131 to 150)% Enhanced Damage",
+          "+(36 to 40) to Maximum Damage",
+          "+(12 to 13) to Wyrd",
+          "Slow Target (21 to 25)%",
+          "(22 to 25)% to Strength",
+          "(46 to 50)% Chance of Uninterruptable Attack",
+          "Socketed (4)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Jared&apos;s Fragmentor (Claymore)",
+    "img": "https://docs.median-xl.com/images/baseitems/invclm.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (8 - 9) to (13 - 17)", "Two-Hand Damage: (12 - 14) to (18 - 22)"],
+        "requirement": ["Required Strength: 41", "Item Level: 4", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "5% Chance to cast level 4 Spike Nova on Melee Attack",
+          "+(41 to 60)% Enhanced Damage",
+          "+(4 to 6) to Maximum Damage",
+          "(2 to 3)% Chance of Crushing Blow",
+          "+(21 to 30) Life on Attack",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (20 - 22) to (30 - 36)", "Two-Hand Damage: (30 - 34) to (40 - 48)"],
+        "requirement": ["Required Strength: 69", "Item Level: 23", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "10% Chance to cast level 8 Spike Nova on Melee Attack",
+          "+(71 to 90)% Enhanced Damage",
+          "+(8 to 12) to Maximum Damage",
+          "(4 to 6)% Chance of Crushing Blow",
+          "+(46 to 60) Life on Attack",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (36 - 39) to (58 - 70)", "Two-Hand Damage: (58 - 63) to (80 - 94)"],
+        "requirement": ["Required Strength: 142", "Item Level: 43", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "15% Chance to cast level 12 Spike Nova on Melee Attack",
+          "+(101 to 120)% Enhanced Damage",
+          "+(16 to 24) to Maximum Damage",
+          "(7 to 9)% Chance of Crushing Blow",
+          "+(71 to 90) Life on Attack",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (48 - 52) to (89 - 110)", "Two-Hand Damage: (83 - 90) to (117 - 140)"],
+        "requirement": ["Required Strength: 283", "Item Level: 78", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "20% Chance to cast level 14 Spike Nova on Melee Attack",
+          "+(131 to 150)% Enhanced Damage",
+          "+(32 to 48) to Maximum Damage",
+          "(10 to 12)% Chance of Crushing Blow",
+          "+(91 to 120) Life on Attack",
+          "Socketed (4)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Hellreaper (Giant Sword)",
+    "img": "https://docs.median-xl.com/images/baseitems/invgis.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (12 - 14) to (14 - 16)", "Two-Hand Damage: (20 - 23) to (20 - 23)"],
+        "requirement": ["Required Strength: 57", "Item Level: 7", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "5% Attack Speed",
+          "+(61 to 80)% Enhanced Damage",
+          "(3 to 5)% Life stolen per Hit",
+          "+(2 to 5) to Iron Spiral",
+          "Enhanced Weapon Damage +(16 to 25)%",
+          "+(21 to 50) Defense",
+          "Maximum Life (3 to 5)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (26 - 29) to (32 - 35)", "Two-Hand Damage: (45 - 50) to (49 - 54)"],
+        "requirement": ["Required Strength: 89", "Item Level: 25", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "15% Attack Speed",
+          "+(91 to 110)% Enhanced Damage",
+          "(9 to 11)% Life stolen per Hit",
+          "+(6 to 9) to Iron Spiral",
+          "Enhanced Weapon Damage +(36 to 45)%",
+          "+(81 to 110) Defense",
+          "Maximum Life (9 to 11)%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (48 - 55) to (57 - 65)", "Two-Hand Damage: (83 - 95) to (88 - 100)"],
+        "requirement": ["Required Strength: 179", "Item Level: 46", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "25% Attack Speed",
+          "+(121 to 150)% Enhanced Damage",
+          "(15 to 17)% Life stolen per Hit",
+          "+(10 to 14) to Iron Spiral",
+          "Enhanced Weapon Damage +(56 to 65)%",
+          "+(141 to 170) Defense",
+          "Maximum Life (15 to 17)%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (67 - 78) to (80 - 93)", "Two-Hand Damage: (117 - 135) to (125 - 144)"],
+        "requirement": ["Required Strength: 355", "Item Level: 81", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "30% Attack Speed",
+          "+(161 to 200)% Enhanced Damage",
+          "(18 to 20)% Life stolen per Hit",
+          "+(15 to 20) to Iron Spiral",
+          "Enhanced Weapon Damage +(66 to 75)%",
+          "+(171 to 200) Defense",
+          "Maximum Life (18 to 20)%",
+          "Socketed (4)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Addertongue (Bastard Sword)",
+    "img": "https://docs.median-xl.com/images/baseitems/invbsw.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: 9 to 11", "Two-Hand Damage: 16 to 17"],
+        "requirement": ["Required Level: 6", "Required Strength: 73", "Item Level: 9", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+1 to Paladin Skill Levels",
+          "+(11 to 15)% to Cold Spell Damage",
+          "-3% to Enemy Cold Resistance",
+          "+(1 to 2) to Winter Avatar",
+          "(3 to 5)% to Strength",
+          "(3 to 5)% to Energy",
+          "Total Character Defense (3 to 5)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: 17 to 20", "Two-Hand Damage: 30 to 32"],
+        "requirement": ["Required Level: 24", "Required Strength: 110", "Item Level: 27", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+2 to Paladin Skill Levels",
+          "+(16 to 20)% to Cold Spell Damage",
+          "-6% to Enemy Cold Resistance",
+          "+(3 to 5) to Winter Avatar",
+          "(9 to 11)% to Strength",
+          "(9 to 11)% to Energy",
+          "Total Character Defense (9 to 11)%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: 26 to 31", "Two-Hand Damage: 46 to 49"],
+        "requirement": ["Required Level: 43", "Required Strength: 216", "Item Level: 48", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+3 to Paladin Skill Levels",
+          "+(21 to 25)% to Cold Spell Damage",
+          "-9% to Enemy Cold Resistance",
+          "+(6 to 7) to Winter Avatar",
+          "(15 to 17)% to Strength",
+          "(15 to 17)% to Energy",
+          "Total Character Defense (15 to 17)%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: 31 to 37", "Two-Hand Damage: 56 to 59"],
+        "requirement": ["Required Level: 52", "Required Strength: 427", "Item Level: 82", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+4 to Paladin Skill Levels",
+          "+(26 to 30)% to Cold Spell Damage",
+          "-12% to Enemy Cold Resistance",
+          "+(9 to 10) to Winter Avatar",
+          "(18 to 20)% to Strength",
+          "(18 to 20)% to Energy",
+          "Total Character Defense (18 to 20)%",
+          "Socketed (4)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Frostbringer (Flamberge)",
+    "img": "https://docs.median-xl.com/images/baseitems/invflb.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (12 - 14) to (23 - 30)", "Two-Hand Damage: (22 - 25) to (32 - 41)"],
+        "requirement": ["Required Strength: 89", "Item Level: 11", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "25% Chance to cast level 5 Ice Lance on Melee Attack",
+          "+1 to All Skills",
+          "+(18 to 35)% Enhanced Damage",
+          "+(8 to 13) to Maximum Damage",
+          "+(11 to 20)% to Cold Spell Damage",
+          "Cold Resist +(21 to 25)%",
+          "(3 to 5)% Chance of Uninterruptable Attack",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (28 - 32) to (52 - 61)", "Two-Hand Damage: (54 - 60) to (75 - 87)"],
+        "requirement": ["Required Strength: 130", "Item Level: 29", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "35% Chance to cast level 15 Ice Lance on Melee Attack",
+          "+2 to All Skills",
+          "+(52 to 69)% Enhanced Damage",
+          "+(18 to 23) to Maximum Damage",
+          "+(21 to 30)% to Cold Spell Damage",
+          "Cold Resist +(31 to 35)%",
+          "(9 to 11)% Chance of Uninterruptable Attack",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (56 - 60) to (95 - 106)", "Two-Hand Damage: (102 - 111) to (136 - 150)"],
+        "requirement": ["Required Strength: 253", "Item Level: 49", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "45% Chance to cast level 25 Ice Lance on Melee Attack",
+          "+(2 to 3) to All Skills",
+          "+(87 to 103)% Enhanced Damage",
+          "+(28 to 33) to Maximum Damage",
+          "+(31 to 40)% to Cold Spell Damage",
+          "Cold Resist +(41 to 45)%",
+          "(15 to 17)% Chance of Uninterruptable Attack",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (71 - 77) to (118 - 130)", "Two-Hand Damage: (132 - 143) to (173 - 189)"],
+        "requirement": ["Required Strength: 499", "Item Level: 85", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "50% Chance to cast level 30 Ice Lance on Melee Attack",
+          "+3 to All Skills",
+          "+(104 to 120)% Enhanced Damage",
+          "+(33 to 38) to Maximum Damage",
+          "+(41 to 50)% to Cold Spell Damage",
+          "Cold Resist +(46 to 50)%",
+          "(18 to 20)% Chance of Uninterruptable Attack",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "The Dao of Xiansai (Great Sword)",
+    "img": "https://docs.median-xl.com/images/baseitems/invgsd.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (14 - 16) to (32 - 45)", "Two-Hand Damage: (25 - 29) to (42 - 56)"],
+        "requirement": ["Required Strength: 105", "Item Level: 17", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+1 to All Skills",
+          "15% Attack Speed",
+          "15% Hit Recovery",
+          "+(18 to 35)% Enhanced Damage",
+          "+(15 to 25) to Maximum Damage",
+          "(51 to 75)% Bonus to Attack Rating",
+          "+(101 to 150) Defense",
+          "+1% to Experience Gained",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (31 - 35) to (70 - 83)", "Two-Hand Damage: (60 - 67) to (96 - 112)"],
+        "requirement": ["Required Strength: 151", "Item Level: 33", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+2 to All Skills",
+          "25% Attack Speed",
+          "25% Hit Recovery",
+          "+(52 to 69)% Enhanced Damage",
+          "+(31 to 40) to Maximum Damage",
+          "(101 to 125)% Bonus to Attack Rating",
+          "+(201 to 250) Defense",
+          "+2% to Experience Gained",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (59 - 64) to (123 - 149)", "Two-Hand Damage: (114 - 123) to (172 - 201)"],
+        "requirement": ["Required Strength: 291", "Item Level: 54", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+3 to All Skills",
+          "35% Attack Speed",
+          "35% Hit Recovery",
+          "+(87 to 103)% Enhanced Damage",
+          "+(51 to 70) to Maximum Damage",
+          "(151 to 175)% Bonus to Attack Rating",
+          "+(301 to 350) Defense",
+          "+2% to Experience Gained",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (77 - 83) to (166 - 193)", "Two-Hand Damage: (148 - 160) to (228 - 259)"],
+        "requirement": ["Required Strength: 570", "Item Level: 90", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+4 to All Skills",
+          "40% Attack Speed",
+          "40% Hit Recovery",
+          "+(104 to 120)% Enhanced Damage",
+          "+(71 to 90) to Maximum Damage",
+          "(176 to 200)% Bonus to Attack Rating",
+          "+(351 to 400) Defense",
+          "+3% to Experience Gained",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Iceflayer (Crystal Sword)",
+    "img": "https://docs.median-xl.com/images/baseitems/invcrs.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "requirement": ["Required Level: 11", "Required Dexterity: 73", "Item Level: 18"],
+        "attribute": [
+          "+1 to Druid Skill Levels",
+          "+1 to Paladin Skill Levels",
+          "15% Hit Recovery",
+          "Adds 12-18 cold damage",
+          "+(11 to 15)% to Cold Spell Damage",
+          "(3 to 5)% to Energy",
+          "Physical Damage Reduced by (5 to 10)",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "requirement": ["Required Level: 30", "Required Dexterity: 110", "Item Level: 33"],
+        "attribute": [
+          "+2 to Druid Skill Levels",
+          "+2 to Paladin Skill Levels",
+          "30% Hit Recovery",
+          "Adds 24-36 cold damage",
+          "+(16 to 20)% to Cold Spell Damage",
+          "(9 to 11)% to Energy",
+          "Physical Damage Reduced by (15 to 25)",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "requirement": ["Required Level: 48", "Required Dexterity: 216", "Item Level: 53"],
+        "attribute": [
+          "+3 to Druid Skill Levels",
+          "+3 to Paladin Skill Levels",
+          "45% Hit Recovery",
+          "Adds 72-108 cold damage",
+          "+(21 to 25)% to Cold Spell Damage",
+          "(15 to 17)% to Energy",
+          "Physical Damage Reduced by (31 to 40)",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "requirement": ["Required Level: 57", "Required Dexterity: 427", "Item Level: 90"],
+        "attribute": [
+          "+4 to Druid Skill Levels",
+          "+4 to Paladin Skill Levels",
+          "60% Hit Recovery",
+          "Adds 288-432 cold damage",
+          "+(26 to 30)% to Cold Spell Damage",
+          "(18 to 20)% to Energy",
+          "Physical Damage Reduced by (41 to 50)",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Brainhack (Hand Axe)",
+    "img": "https://docs.median-xl.com/images/baseitems/invhax.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (4 - 5) to (6 - 7)"],
+        "requirement": ["Item Level: 1", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "3% Chance to cast level 2 Banish on Kill",
+          "15% Attack Speed",
+          "+(16 to 30)% Enhanced Damage",
+          "5% Chance of Crushing Blow",
+          "+(1 to 2) to Deathgaze",
+          "Slow Target (3 to 5)%",
+          "+(1 to 10) to Strength",
+          "-(1 to 10) to Energy",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (12 - 14) to (15 - 18)"],
+        "requirement": ["Required Strength: 18", "Item Level: 20", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "5% Chance to cast level 8 Banish on Kill",
+          "25% Attack Speed",
+          "+(51 to 80)% Enhanced Damage",
+          "6% Chance of Crushing Blow",
+          "+(4 to 6) to Deathgaze",
+          "Slow Target (9 to 11)%",
+          "+(11 to 20) to Strength",
+          "-(11 to 20) to Energy",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (24 - 28) to (30 - 35)"],
+        "requirement": ["Required Strength: 49", "Item Level: 41", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "7% Chance to cast level 14 Banish on Kill",
+          "35% Attack Speed",
+          "+(91 to 120)% Enhanced Damage",
+          "7% Chance of Crushing Blow",
+          "+(8 to 10) to Deathgaze",
+          "Slow Target (15 to 17)%",
+          "+(21 to 30) to Strength",
+          "-(21 to 30) to Energy",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (36 - 41) to (46 - 52)"],
+        "requirement": ["Required Strength: 104", "Item Level: 73", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "8% Chance to cast level 17 Banish on Kill",
+          "50% Attack Speed",
+          "+(131 to 160)% Enhanced Damage",
+          "8% Chance of Crushing Blow",
+          "+(10 to 14) to Deathgaze",
+          "Slow Target (18 to 20)%",
+          "+(31 to 40) to Strength",
+          "-(31 to 40) to Energy",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "The Lumberjack (Axe)",
+    "img": "https://docs.median-xl.com/images/baseitems/invaxe.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: 7 to (15 - 23)"],
+        "requirement": ["Required Strength: 31", "Item Level: 5", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+1 to Druid Skill Levels",
+          "5% Attack Speed",
+          "+(18 to 29)% Enhanced Damage",
+          "+(6 to 13) to Maximum Damage",
+          "+(21 to 50)% Damage to Undead",
+          "(1 to 2)% Chance of Crushing Blow",
+          "+(31 to 50) Defense",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (15 - 16) to (42 - 50)"],
+        "requirement": ["Required Strength: 56", "Item Level: 24", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+2 to Druid Skill Levels",
+          "15% Attack Speed",
+          "+(41 to 52)% Enhanced Damage",
+          "+(21 to 28) to Maximum Damage",
+          "+(81 to 110)% Damage to Undead",
+          "(3 to 4)% Chance of Crushing Blow",
+          "+(71 to 90) Defense",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (27 - 29) to (75 - 85)"],
+        "requirement": ["Required Strength: 118", "Item Level: 45", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+(2 to 3) to Druid Skill Levels",
+          "25% Attack Speed",
+          "+(64 to 75)% Enhanced Damage",
+          "+(36 to 43) to Maximum Damage",
+          "+(141 to 170)% Damage to Undead",
+          "(5 to 6)% Chance of Crushing Blow",
+          "+(111 to 130) Defense",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (36 - 39) to (92 - 102)"],
+        "requirement": ["Required Strength: 239", "Item Level: 78", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+3 to Druid Skill Levels",
+          "30% Attack Speed",
+          "+(75 to 86)% Enhanced Damage",
+          "+(43 to 50) to Maximum Damage",
+          "+(171 to 200)% Damage to Undead",
+          "(7 to 8)% Chance of Crushing Blow",
+          "+(131 to 150) Defense",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Anthem De Frost (Double Axe)",
+    "img": "https://docs.median-xl.com/images/baseitems/inv2ax.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (12 - 16) to (21 - 30)"],
+        "requirement": ["Required Strength: 49", "Item Level: 8", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "1% Chance to cast level 5 Glacial Nova on Melee Attack",
+          "10% Hit Recovery",
+          "+(41 to 60)% Enhanced Damage",
+          "Adds (3 to 5)-(6 to 13) damage",
+          "Adds (8 to 10)-(11 to 15) cold damage",
+          "(3 to 5)% Chance of Uninterruptable Attack",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (31 - 36) to (55 - 66)"],
+        "requirement": ["Required Strength: 79", "Item Level: 26", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "2% Chance to cast level 13 Glacial Nova on Melee Attack",
+          "20% Hit Recovery",
+          "+(71 to 90)% Enhanced Damage",
+          "Adds (8 to 10)-(21 to 28) damage",
+          "Adds (21 to 40)-(31 to 60) cold damage",
+          "(9 to 11)% Chance of Uninterruptable Attack",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (57 - 63) to (98 - 111)"],
+        "requirement": ["Required Strength: 160", "Item Level: 47", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "3% Chance to cast level 21 Glacial Nova on Melee Attack",
+          "30% Hit Recovery",
+          "+(101 to 120)% Enhanced Damage",
+          "Adds (13 to 15)-(36 to 43) damage",
+          "Adds (81 to 160)-(121 to 240) cold damage",
+          "(15 to 17)% Chance of Uninterruptable Attack",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (76 - 83) to (128 - 142)"],
+        "requirement": ["Required Strength: 319", "Item Level: 81", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "4% Chance to cast level 25 Glacial Nova on Melee Attack",
+          "40% Hit Recovery",
+          "+(131 to 150)% Enhanced Damage",
+          "Adds (16 to 18)-(43 to 50) damage",
+          "Adds (161 to 320)-(241 to 480) cold damage",
+          "(18 to 20)% Chance of Uninterruptable Attack",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "The Prospector&apos;s Pick (Military Pick)",
+    "img": "https://docs.median-xl.com/images/baseitems/invmpi.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (15 - 16) to (24 - 35)"],
+        "requirement": ["Required Strength: 67", "Item Level: 11", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "35% Attack Speed",
+          "+(71 to 80)% Enhanced Damage",
+          "+(1 to 10) to Maximum Damage",
+          "(3 to 5)% Mana stolen per Hit",
+          "+(21 to 30) to Strength",
+          "+(21 to 30) to Dexterity",
+          "(4 to 7)% Gold Find",
+          "(16 to 20)% Magic Find",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (32 - 34) to (58 - 70)"],
+        "requirement": ["Required Strength: 102", "Item Level: 28", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "40% Attack Speed",
+          "+(91 to 100)% Enhanced Damage",
+          "+(11 to 20) to Maximum Damage",
+          "(6 to 8)% Mana stolen per Hit",
+          "+(31 to 40) to Strength",
+          "+(31 to 40) to Dexterity",
+          "(9 to 12)% Gold Find",
+          "(21 to 25)% Magic Find",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (54 - 57) to (103 - 115)"],
+        "requirement": ["Required Strength: 202", "Item Level: 49", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "45% Attack Speed",
+          "+(111 to 120)% Enhanced Damage",
+          "+(21 to 30) to Maximum Damage",
+          "(10 to 12)% Mana stolen per Hit",
+          "+(41 to 50) to Strength",
+          "+(41 to 50) to Dexterity",
+          "(14 to 17)% Gold Find",
+          "(26 to 30)% Magic Find",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (69 - 72) to (134 - 148)"],
+        "requirement": ["Required Strength: 400", "Item Level: 84", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "50% Attack Speed",
+          "+(131 to 140)% Enhanced Damage",
+          "+(31 to 40) to Maximum Damage",
+          "(13 to 15)% Mana stolen per Hit",
+          "+(51 to 60) to Strength",
+          "+(51 to 60) to Dexterity",
+          "(17 to 19)% Gold Find",
+          "(31 to 40)% Magic Find",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Rainbowcleave (War Axe)",
+    "img": "https://docs.median-xl.com/images/baseitems/invwax.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: 11 to 17"],
+        "requirement": ["Required Level: 11", "Required Strength: 85", "Item Level: 17", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+1 to All Skills",
+          "10% Cast Speed",
+          "10% Attack Speed",
+          "+(6 to 8)% to Fire Spell Damage",
+          "+(6 to 8)% to Lightning Spell Damage",
+          "+(6 to 8)% to Cold Spell Damage",
+          "Cold Resist +(21 to 25)%",
+          "Lightning Resist +(21 to 25)%",
+          "Fire Resist +(21 to 25)%",
+          "Elemental/Magic Damage Reduced by (3 to 5)",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: 19 to 29"],
+        "requirement": ["Required Level: 29", "Required Strength: 125", "Item Level: 32", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+2 to All Skills",
+          "20% Cast Speed",
+          "20% Attack Speed",
+          "+(11 to 13)% to Fire Spell Damage",
+          "+(11 to 13)% to Lightning Spell Damage",
+          "+(11 to 13)% to Cold Spell Damage",
+          "Cold Resist +(31 to 35)%",
+          "Lightning Resist +(31 to 35)%",
+          "Fire Resist +(31 to 35)%",
+          "Elemental/Magic Damage Reduced by (9 to 11)",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: 29 to 45"],
+        "requirement": ["Required Level: 48", "Required Strength: 244", "Item Level: 53", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+2 to All Skills",
+          "30% Cast Speed",
+          "30% Attack Speed",
+          "+(16 to 18)% to Fire Spell Damage",
+          "+(16 to 18)% to Lightning Spell Damage",
+          "+(16 to 18)% to Cold Spell Damage",
+          "Cold Resist +(41 to 45)%",
+          "Lightning Resist +(41 to 45)%",
+          "Fire Resist +(41 to 45)%",
+          "Elemental/Magic Damage Reduced by (15 to 17)",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: 35 to 54"],
+        "requirement": ["Required Level: 55", "Required Strength: 481", "Item Level: 87", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+3 to All Skills",
+          "40% Cast Speed",
+          "40% Attack Speed",
+          "+(18 to 20)% to Fire Spell Damage",
+          "+(18 to 20)% to Lightning Spell Damage",
+          "+(18 to 20)% to Cold Spell Damage",
+          "Cold Resist +(46 to 50)%",
+          "Lightning Resist +(46 to 50)%",
+          "Fire Resist +(46 to 50)%",
+          "Elemental/Magic Damage Reduced by (18 to 20)",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Heartrend (Large Axe)",
+    "img": "https://docs.median-xl.com/images/baseitems/invlax.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (8 - 9) to (10 - 11)"],
+        "requirement": ["Required Strength: 18", "Item Level: 1", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "1% Chance to cast level 6 Lifeblood on Death Blow",
+          "+1 to All Skills",
+          "+(18 to 29)% Enhanced Damage",
+          "+(6 to 10)% to Lightning Spell Damage",
+          "-(3 to 5)% to Enemy Lightning Resistance",
+          "+(21 to 30)% to Physical/Magic Spell Damage",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (19 - 21) to (22 - 24)"],
+        "requirement": ["Required Strength: 39", "Item Level: 20", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "2% Chance to cast level 12 Lifeblood on Death Blow",
+          "+(1 to 2) to All Skills",
+          "+(41 to 52)% Enhanced Damage",
+          "+(11 to 20)% to Lightning Spell Damage",
+          "-(6 to 10)% to Enemy Lightning Resistance",
+          "+(31 to 40)% to Physical/Magic Spell Damage",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (39 - 42) to (45 - 49)"],
+        "requirement": ["Required Strength: 88", "Item Level: 41", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "3% Chance to cast level 18 Lifeblood on Death Blow",
+          "+2 to All Skills",
+          "+(64 to 75)% Enhanced Damage",
+          "+(21 to 30)% to Lightning Spell Damage",
+          "-(11 to 15)% to Enemy Lightning Resistance",
+          "+(41 to 50)% to Physical/Magic Spell Damage",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (50 - 53) to (57 - 61)"],
+        "requirement": ["Required Strength: 180", "Item Level: 73", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "4% Chance to cast level 21 Lifeblood on Death Blow",
+          "+3 to All Skills",
+          "+(75 to 86)% Enhanced Damage",
+          "+(31 to 40)% to Lightning Spell Damage",
+          "-(16 to 20)% to Enemy Lightning Resistance",
+          "+(51 to 60)% to Physical/Magic Spell Damage",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Jackal&apos;s Hunger (Broad Axe)",
+    "img": "https://docs.median-xl.com/images/baseitems/invbrx.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (11 - 13) to (26 - 32)"],
+        "requirement": ["Required Strength: 39", "Item Level: 5", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "5% Chance to cast level 2 Lifeblood on Kill",
+          "+1 to All Skills",
+          "5% Attack Speed",
+          "+(18 to 35)% Enhanced Damage",
+          "+(11 to 15) to Maximum Damage",
+          "+50% Damage to Undead",
+          "5% Mana stolen per Hit",
+          "+(6 to 10) to Strength",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (30 - 33) to (59 - 72)"],
+        "requirement": ["Required Strength: 67", "Item Level: 24", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "7% Chance to cast level 6 Lifeblood on Kill",
+          "+2 to All Skills",
+          "15% Attack Speed",
+          "+(52 to 69)% Enhanced Damage",
+          "+(21 to 30) to Maximum Damage",
+          "+100% Damage to Undead",
+          "10% Mana stolen per Hit",
+          "+(16 to 20) to Strength",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (63 - 69) to (117 - 133)"],
+        "requirement": ["Required Strength: 137", "Item Level: 44", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "9% Chance to cast level 10 Lifeblood on Kill",
+          "+3 to All Skills",
+          "25% Attack Speed",
+          "+(87 to 103)% Enhanced Damage",
+          "+(41 to 50) to Maximum Damage",
+          "+150% Damage to Undead",
+          "15% Mana stolen per Hit",
+          "+(26 to 30) to Strength",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (81 - 88) to (150 - 177)"],
+        "requirement": ["Required Strength: 274", "Item Level: 78", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "11% Chance to cast level 12 Lifeblood on Kill",
+          "+4 to All Skills",
+          "30% Attack Speed",
+          "+(104 to 120)% Enhanced Damage",
+          "+(51 to 70) to Maximum Damage",
+          "+200% Damage to Undead",
+          "20% Mana stolen per Hit",
+          "+(31 to 35) to Strength",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Skullhammer (Battle Axe)",
+    "img": "https://docs.median-xl.com/images/baseitems/invbtx.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "requirement": ["Required Level: 5", "Required Strength: 60", "Item Level: 8"],
+        "attribute": [
+          "10% Chance to cast level 10 Lava Pit on Melee Attack",
+          "15% Attack Speed",
+          "Adds (22 to 25)-(31 to 33) fire damage",
+          "-(11 to 13)% to Enemy Fire Resistance",
+          "(5 to 7)% Chance of Crushing Blow",
+          "Maximum Mana -(3 to 5)%",
+          "+20 Life on Attack",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "requirement": ["Required Level: 24", "Required Strength: 93", "Item Level: 26"],
+        "attribute": [
+          "12% Chance to cast level 20 Lava Pit on Melee Attack",
+          "25% Attack Speed",
+          "Adds (57 to 61)-(79 to 83) fire damage",
+          "-(16 to 18)% to Enemy Fire Resistance",
+          "(8 to 10)% Chance of Crushing Blow",
+          "Maximum Mana -(9 to 11)%",
+          "+50 Life on Attack",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "requirement": ["Required Level: 42", "Required Strength: 186", "Item Level: 47"],
+        "attribute": [
+          "14% Chance to cast level 30 Lava Pit on Melee Attack",
+          "35% Attack Speed",
+          "Adds (189 to 208)-(255 to 284) fire damage",
+          "-(21 to 23)% to Enemy Fire Resistance",
+          "(11 to 13)% Chance of Crushing Blow",
+          "Maximum Mana -(15 to 17)%",
+          "+75 Life on Attack",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "requirement": ["Required Level: 51", "Required Strength: 369", "Item Level: 81"],
+        "attribute": [
+          "16% Chance to cast level 40 Lava Pit on Melee Attack",
+          "40% Attack Speed",
+          "Adds (613 to 632)-(827 to 856) fire damage",
+          "-(23 to 25)% to Enemy Fire Resistance",
+          "(14 to 16)% Chance of Crushing Blow",
+          "Maximum Mana -(18 to 20)%",
+          "+100 Life on Attack",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Norrec&apos;s Topor (Great Axe)",
+    "img": "https://docs.median-xl.com/images/baseitems/invgax.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (21 - 24) to (41 - 53)"],
+        "requirement": ["Required Level: 7", "Required Strength: 81", "Item Level: 11", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "10% Attack Speed",
+          "+(24 to 46)% Enhanced Damage",
+          "+(13 to 20) to Maximum Damage",
+          "-(6 to 10)% to Enemy Fire Resistance",
+          "+(16 to 25) to Strength",
+          "+40 Life Regenerated per Second",
+          "Physical Damage Reduced by (6 to 10)",
+          "(2 to 3)% Reanimate as: Infernal Defiler",
+          "Target Takes Additional Damage of (31 to 50)",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (57 - 65) to (102 - 119)"],
+        "requirement": ["Required Level: 25", "Required Strength: 120", "Item Level: 28", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "15% Attack Speed",
+          "+(69 to 92)% Enhanced Damage",
+          "+(28 to 35) to Maximum Damage",
+          "-(11 to 15)% to Enemy Fire Resistance",
+          "+(36 to 45) to Strength",
+          "+50 Life Regenerated per Second",
+          "Physical Damage Reduced by (11 to 20)",
+          "(5 to 6)% Reanimate as: Infernal Defiler",
+          "Target Takes Additional Damage of (61 to 80)",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (113 - 125) to (189 - 211)"],
+        "requirement": ["Required Level: 44", "Required Strength: 235", "Item Level: 48", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "20% Attack Speed",
+          "+(115 to 137)% Enhanced Damage",
+          "+(43 to 50) to Maximum Damage",
+          "-(16 to 20)% to Enemy Fire Resistance",
+          "+(56 to 65) to Strength",
+          "+60 Life Regenerated per Second",
+          "Physical Damage Reduced by (21 to 30)",
+          "(8 to 9)% Reanimate as: Infernal Defiler",
+          "Target Takes Additional Damage of (91 to 110)",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (147 - 161) to (241 - 266)"],
+        "requirement": ["Required Level: 53", "Required Strength: 463", "Item Level: 84", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "25% Attack Speed",
+          "+(138 to 160)% Enhanced Damage",
+          "+(51 to 58) to Maximum Damage",
+          "-(21 to 25)% to Enemy Fire Resistance",
+          "+(66 to 75) to Strength",
+          "+70 Life Regenerated per Second",
+          "Physical Damage Reduced by (31 to 40)",
+          "(9 to 10)% Reanimate as: Infernal Defiler",
+          "Target Takes Additional Damage of (121 to 150)",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Edge of Extinction (Giant Axe)",
+    "img": "https://docs.median-xl.com/images/baseitems/invgix.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (24 - 29) to (34 - 40)"],
+        "requirement": ["Required Level: 11", "Required Strength: 102", "Item Level: 17", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "19% Chance to cast level 6 Gamma Field on Kill",
+          "+(1 to 2) to Druid Skill Levels",
+          "10% Attack Speed",
+          "+(24 to 46)% Enhanced Damage",
+          "+(31 to 50)% Damage to Undead",
+          "+(6 to 10)% to Poison Spell Damage",
+          "-(6 to 8)% to Enemy Poison Resistance",
+          "Poison Resist +(21 to 30)%",
+          "(2 to 3)% Reanimate as: Zombie",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (65 - 74) to (86 - 97)"],
+        "requirement": ["Required Level: 29", "Required Strength: 146", "Item Level: 32", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "21% Chance to cast level 18 Gamma Field on Kill",
+          "+3 to Druid Skill Levels",
+          "15% Attack Speed",
+          "+(69 to 92)% Enhanced Damage",
+          "+(71 to 90)% Damage to Undead",
+          "+(11 to 20)% to Poison Spell Damage",
+          "-(11 to 13)% to Enemy Poison Resistance",
+          "Poison Resist +(41 to 50)%",
+          "(5 to 6)% Reanimate as: Zombie",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (129 - 142) to (169 - 187)"],
+        "requirement": ["Required Level: 48", "Required Strength: 284", "Item Level: 53", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "23% Chance to cast level 30 Gamma Field on Kill",
+          "+4 to Druid Skill Levels",
+          "20% Attack Speed",
+          "+(115 to 137)% Enhanced Damage",
+          "+(111 to 130)% Damage to Undead",
+          "+(21 to 30)% to Poison Spell Damage",
+          "-(16 to 18)% to Enemy Poison Resistance",
+          "Poison Resist +(61 to 70)%",
+          "(8 to 9)% Reanimate as: Zombie",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (154 - 169) to (235 - 257)"],
+        "requirement": ["Required Level: 55", "Required Strength: 557", "Item Level: 87", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "25% Chance to cast level 36 Gamma Field on Kill",
+          "+5 to Druid Skill Levels",
+          "25% Attack Speed",
+          "+(138 to 160)% Enhanced Damage",
+          "+(131 to 150)% Damage to Undead",
+          "+(31 to 40)% to Poison Spell Damage",
+          "-(18 to 20)% to Enemy Poison Resistance",
+          "Poison Resist +(71 to 80)%",
+          "(9 to 10)% Reanimate as: Zombie",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Gnarled Root (Club)",
+    "img": "https://docs.median-xl.com/images/baseitems/invclb.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: 4 to 6"],
+        "requirement": ["Required Level: 1", "Item Level: 1", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["25% Attack Speed", "+50% Damage to Undead", "10% to All Attributes", "+10 Life Regenerated per Second", "Physical Resist 2%", "Socketed (1)"]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: 9 to 11"],
+        "requirement": ["Required Level: 18", "Required Strength: 18", "Item Level: 20", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["45% Attack Speed", "+50% Damage to Undead", "16% to All Attributes", "+20 Life Regenerated per Second", "Physical Resist 4%", "Socketed (2)"]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: 14 to 17"],
+        "requirement": ["Required Level: 37", "Required Strength: 49", "Item Level: 41", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["65% Attack Speed", "+50% Damage to Undead", "23% to All Attributes", "+30 Life Regenerated per Second", "Physical Resist 6%", "Socketed (3)"]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: 17 to 21"],
+        "requirement": ["Required Level: 46", "Required Strength: 104", "Item Level: 73", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["75% Attack Speed", "+50% Damage to Undead", "30% to All Attributes", "+40 Life Regenerated per Second", "Physical Resist 8%", "Socketed (3)"]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Greiz&apos; Slapjack (Spiked Club)",
+    "img": "https://docs.median-xl.com/images/baseitems/invspc.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (7 - 9) to (20 - 22)"],
+        "requirement": ["Required Level: 3", "Required Strength: 24", "Item Level: 5", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "5% Attack Speed",
+          "+(31 to 50)% Enhanced Damage",
+          "+10 to Maximum Damage",
+          "+50% Damage to Undead",
+          "Adds 1-(31 to 40) lightning damage",
+          "(5 to 7)% Chance of Crushing Blow",
+          "(3 to 5)% to Strength",
+          "(3 to 5)% to Dexterity",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (16 - 18) to (37 - 40)"],
+        "requirement": ["Required Level: 21", "Required Strength: 47", "Item Level: 24", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "15% Attack Speed",
+          "+(51 to 70)% Enhanced Damage",
+          "+15 to Maximum Damage",
+          "+50% Damage to Undead",
+          "Adds 1-(71 to 100) lightning damage",
+          "(8 to 10)% Chance of Crushing Blow",
+          "(9 to 11)% to Strength",
+          "(9 to 11)% to Dexterity",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (30 - 36) to (60 - 67)"],
+        "requirement": ["Required Level: 40", "Required Strength: 102", "Item Level: 44", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "30% Attack Speed",
+          "+(71 to 100)% Enhanced Damage",
+          "+21 to Maximum Damage",
+          "+50% Damage to Undead",
+          "Adds 1-(251 to 300) lightning damage",
+          "(11 to 13)% Chance of Crushing Blow",
+          "(15 to 17)% to Strength",
+          "(15 to 17)% to Dexterity",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (42 - 48) to (86 - 94)"],
+        "requirement": ["Required Level: 49", "Required Strength: 207", "Item Level: 78", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "45% Attack Speed",
+          "+(101 to 130)% Enhanced Damage",
+          "+30 to Maximum Damage",
+          "+50% Damage to Undead",
+          "Adds 1-(721 to 800) lightning damage",
+          "(14 to 16)% Chance of Crushing Blow",
+          "(18 to 20)% to Strength",
+          "(18 to 20)% to Dexterity",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Koth&apos;s Lesson (Mace)",
+    "img": "https://docs.median-xl.com/images/baseitems/invmac.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (9 - 10) to (13 - 15)"],
+        "requirement": ["Required Level: 5", "Required Strength: 36", "Item Level: 8", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "15% Chance to cast level 4 Bloodlust on Kill",
+          "+1 to All Skills",
+          "+(10 to 15)% Bonus Damage to Bloodlust",
+          "+(31 to 50)% Enhanced Damage",
+          "+(111 to 170)% Damage to Undead",
+          "+(51 to 100) Defense",
+          "+(11 to 15) to Strength",
+          "Maximum Life (3 to 5)%",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (22 - 24) to (32 - 36)"],
+        "requirement": ["Required Level: 23", "Required Strength: 62", "Item Level: 26", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "21% Chance to cast level 12 Bloodlust on Kill",
+          "+(1 to 2) to All Skills",
+          "+(20 to 30)% Bonus Damage to Bloodlust",
+          "+(71 to 90)% Enhanced Damage",
+          "+(231 to 290)% Damage to Undead",
+          "+(151 to 200) Defense",
+          "+(21 to 25) to Strength",
+          "Maximum Life (9 to 11)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (40 - 44) to (60 - 66)"],
+        "requirement": ["Required Level: 42", "Required Strength: 130", "Item Level: 46", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "27% Chance to cast level 20 Bloodlust on Kill",
+          "+2 to All Skills",
+          "+(35 to 45)% Bonus Damage to Bloodlust",
+          "+(101 to 120)% Enhanced Damage",
+          "+(351 to 410)% Damage to Undead",
+          "+(251 to 300) Defense",
+          "+(31 to 35) to Strength",
+          "Maximum Life (15 to 17)%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (55 - 60) to (80 - 87)"],
+        "requirement": ["Required Level: 51", "Required Strength: 261", "Item Level: 81", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "30% Chance to cast level 24 Bloodlust on Kill",
+          "+(2 to 3) to All Skills",
+          "+(50 to 60)% Bonus Damage to Bloodlust",
+          "+(131 to 150)% Enhanced Damage",
+          "+(411 to 470)% Damage to Undead",
+          "+(301 to 350) Defense",
+          "+(36 to 40) to Strength",
+          "Maximum Life (18 to 20)%",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Magnet Rock (Morning Star)",
+    "img": "https://docs.median-xl.com/images/baseitems/invmst.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: 8 to 13"],
+        "requirement": ["Required Level: 24", "Required Strength: 48", "Item Level: 11", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+50% Damage to Undead",
+          "-3% to Enemy Fire Resistance",
+          "+(1 to 3) to Dragon Wyrms (Paladin Only)",
+          "Physical Damage Reduced by (2 to 5)",
+          "(15 to 20)% Gold Find",
+          "(11 to 15)% Magic Find",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: 14 to 23"],
+        "requirement": ["Required Level: 25", "Required Strength: 78", "Item Level: 28", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+50% Damage to Undead",
+          "-6% to Enemy Fire Resistance",
+          "+(4 to 6) to Dragon Wyrms (Paladin Only)",
+          "Physical Damage Reduced by (10 to 13)",
+          "(20 to 25)% Gold Find",
+          "(21 to 25)% Magic Find",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: 23 to 36"],
+        "requirement": ["Required Level: 44", "Required Strength: 158", "Item Level: 48", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+50% Damage to Undead",
+          "-9% to Enemy Fire Resistance",
+          "+(7 to 9) to Dragon Wyrms (Paladin Only)",
+          "Physical Damage Reduced by (18 to 21)",
+          "(25 to 30)% Gold Find",
+          "(31 to 35)% Magic Find",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: 28 to 42"],
+        "requirement": ["Required Level: 53", "Required Strength: 315", "Item Level: 84", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+50% Damage to Undead",
+          "-12% to Enemy Fire Resistance",
+          "+(10 to 13) to Dragon Wyrms (Paladin Only)",
+          "Physical Damage Reduced by (22 to 25)",
+          "(30 to 35)% Gold Find",
+          "(36 to 40)% Magic Find",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Ravenflock (Flail)",
+    "img": "https://docs.median-xl.com/images/baseitems/invfla.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: 13 to 22"],
+        "requirement": ["Required Level: 24", "Required Strength: 60", "Item Level: 17", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["15% Attack Speed", "+50% Enhanced Damage", "+50% Damage to Undead", "2% Deadly Strike", "+(1 to 4) to Noctule", "+(11 to 15) to all Attributes", "Socketed (2)"]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: 34 to 54"],
+        "requirement": ["Required Level: 45", "Required Strength: 93", "Item Level: 32", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["25% Attack Speed", "+100% Enhanced Damage", "+50% Damage to Undead", "4% Deadly Strike", "+(5 to 7) to Noctule", "+(21 to 25) to all Attributes", "Socketed (4)"]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: 62 to 102"],
+        "requirement": ["Required Level: 70", "Required Strength: 186", "Item Level: 53", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["35% Attack Speed", "+150% Enhanced Damage", "+50% Damage to Undead", "6% Deadly Strike", "+(8 to 11) to Noctule", "+(31 to 35) to all Attributes", "Socketed (5)"]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: 93 to 147"],
+        "requirement": ["Required Level: 84", "Required Strength: 369", "Item Level: 87", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["40% Attack Speed", "+200% Enhanced Damage", "+50% Damage to Undead", "8% Deadly Strike", "+(12 to 14) to Noctule", "+(36 to 40) to all Attributes", "Socketed (6)"]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Archon&apos;s Wrath (War Hammer)",
+    "img": "https://docs.median-xl.com/images/baseitems/invwhm.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: 7 to 10"],
+        "requirement": ["Required Level: 5", "Required Strength: 33", "Item Level: 8", "Strength Damage Bonus: (0.22 per Strength)%"],
+        "attribute": [
+          "10% Chance to cast level 10 Apocalypse on Melee Attack",
+          "+(1 to 2) to Druid Skill Levels",
+          "30% Attack Speed",
+          "(41 to 50)% Bonus to Attack Rating",
+          "+50% Damage to Undead",
+          "+(6 to 10)% to Fire Spell Damage",
+          "-3% to Enemy Fire Resistance",
+          "Requirements -40%",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: 12 to 18"],
+        "requirement": ["Required Level: 24", "Required Strength: 40", "Item Level: 26", "Strength Damage Bonus: (0.22 per Strength)%"],
+        "attribute": [
+          "10% Chance to cast level 19 Apocalypse on Melee Attack",
+          "+(2 to 3) to Druid Skill Levels",
+          "40% Attack Speed",
+          "(81 to 100)% Bonus to Attack Rating",
+          "+50% Damage to Undead",
+          "+(11 to 15)% to Fire Spell Damage",
+          "-6% to Enemy Fire Resistance",
+          "Requirements -55%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: 19 to 26"],
+        "requirement": ["Required Level: 42", "Required Strength: 73", "Item Level: 47", "Strength Damage Bonus: (0.22 per Strength)%"],
+        "attribute": [
+          "10% Chance to cast level 33 Apocalypse on Melee Attack",
+          "+(3 to 4) to Druid Skill Levels",
+          "50% Attack Speed",
+          "(131 to 150)% Bonus to Attack Rating",
+          "+50% Damage to Undead",
+          "+(16 to 20)% to Fire Spell Damage",
+          "-9% to Enemy Fire Resistance",
+          "Requirements -60%",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: 22 to 31"],
+        "requirement": ["Required Level: 51", "Required Strength: 128", "Item Level: 81", "Strength Damage Bonus: (0.22 per Strength)%"],
+        "attribute": [
+          "10% Chance to cast level 43 Apocalypse on Melee Attack",
+          "+(4 to 5) to Druid Skill Levels",
+          "60% Attack Speed",
+          "(171 to 200)% Bonus to Attack Rating",
+          "+50% Damage to Undead",
+          "+(21 to 25)% to Fire Spell Damage",
+          "-12% to Enemy Fire Resistance",
+          "Requirements -65%",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Bonerattler (Maul)",
+    "img": "https://docs.median-xl.com/images/baseitems/invmau.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (17 - 20) to (53 - 75)"],
+        "requirement": ["Required Level: 7", "Required Strength: 93", "Item Level: 11", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+1 to All Skills",
+          "+(24 to 43)% Enhanced Damage",
+          "+(31 to 50) to Maximum Damage",
+          "+(151 to 250)% Damage to Undead",
+          "(1 to 2)% Chance of Crushing Blow",
+          "(2 to 3)% Reanimate as: Bone Archer",
+          "(2 to 3)% Reanimate as: Reignited Archer",
+          "(2 to 3)% Reanimate as: Horror Archer",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (42 - 47) to (116 - 132)"],
+        "requirement": ["Required Level: 25", "Required Strength: 137", "Item Level: 28", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+(1 to 2) to All Skills",
+          "+(64 to 83)% Enhanced Damage",
+          "+(61 to 70) to Maximum Damage",
+          "+(251 to 350)% Damage to Undead",
+          "(2 to 3)% Chance of Crushing Blow",
+          "(3 to 4)% Reanimate as: Bone Archer",
+          "(3 to 4)% Reanimate as: Reignited Archer",
+          "(3 to 4)% Reanimate as: Horror Archer",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (81 - 89) to (187 - 205)"],
+        "requirement": ["Required Level: 44", "Required Strength: 270", "Item Level: 48", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+2 to All Skills",
+          "+(104 to 123)% Enhanced Damage",
+          "+(81 to 90) to Maximum Damage",
+          "+(351 to 450)% Damage to Undead",
+          "(4 to 5)% Chance of Crushing Blow",
+          "(4 to 5)% Reanimate as: Bone Archer",
+          "(4 to 5)% Reanimate as: Reignited Archer",
+          "(4 to 5)% Reanimate as: Horror Archer",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (105 - 114) to (237 - 258)"],
+        "requirement": ["Required Level: 53", "Required Strength: 532", "Item Level: 84", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+3 to All Skills",
+          "+(124 to 143)% Enhanced Damage",
+          "+(101 to 110) to Maximum Damage",
+          "+(451 to 550)% Damage to Undead",
+          "(6 to 8)% Chance of Crushing Blow",
+          "(5 to 6)% Reanimate as: Bone Archer",
+          "(5 to 6)% Reanimate as: Reignited Archer",
+          "(5 to 6)% Reanimate as: Horror Archer",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "The Flying Anvil (Great Maul)",
+    "img": "https://docs.median-xl.com/images/baseitems/invgma.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (19 - 22) to (28 - 51)"],
+        "requirement": ["Required Level: 11", "Required Strength: 117", "Item Level: 17", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+(24 to 43)% Enhanced Damage",
+          "+(1 to 20) to Maximum Damage",
+          "+50% Damage to Undead",
+          "+1 to Hammertime",
+          "+(16 to 25) to Strength",
+          "Elemental Resists +(11 to 15)%",
+          "Total Character Defense (11 to 15)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (49 - 54) to (84 - 111)"],
+        "requirement": ["Required Level: 29", "Required Strength: 168", "Item Level: 32", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+(64 to 83)% Enhanced Damage",
+          "+(21 to 40) to Maximum Damage",
+          "+50% Damage to Undead",
+          "+(4 to 8) to Hammertime",
+          "+(36 to 45) to Strength",
+          "Elemental Resists +(16 to 20)%",
+          "Total Character Defense (21 to 25)%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (93 - 102) to (153 - 193)"],
+        "requirement": ["Required Level: 48", "Required Strength: 326", "Item Level: 53", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+(104 to 123)% Enhanced Damage",
+          "+(31 to 60) to Maximum Damage",
+          "+50% Damage to Undead",
+          "+(10 to 14) to Hammertime",
+          "+(56 to 65) to Strength",
+          "Elemental Resists +(21 to 25)%",
+          "Total Character Defense (31 to 35)%",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (109 - 119) to (209 - 262)"],
+        "requirement": ["Required Level: 55", "Required Strength: 640", "Item Level: 87", "Strength Damage Bonus: (0.26 per Strength)%"],
+        "attribute": [
+          "+(124 to 143)% Enhanced Damage",
+          "+(41 to 80) to Maximum Damage",
+          "+50% Damage to Undead",
+          "+(15 to 20) to Hammertime",
+          "+(66 to 75) to Strength",
+          "Elemental Resists +(26 to 30)%",
+          "Total Character Defense (36 to 40)%",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Sunbearer (Scepter)",
+    "img": "https://docs.median-xl.com/images/baseitems/invscp.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: 4 to 5"],
+        "requirement": ["Required Level: 1", "Required Dexterity: 16", "Item Level: 1", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+1 to Amazon Skill Levels",
+          "(5 to 20)% Cast Speed",
+          "+50% Damage to Undead",
+          "-3% to Enemy Fire Resistance",
+          "+(5 to 7)% to Physical/Magic Spell Damage",
+          "Fire Resist +(11 to 30)%",
+          "(4 to 7)% Gold Find",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: 8 to 9"],
+        "requirement": ["Required Level: 18", "Required Dexterity: 37", "Item Level: 20", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+2 to Amazon Skill Levels",
+          "(11 to 30)% Cast Speed",
+          "+50% Damage to Undead",
+          "-6% to Enemy Fire Resistance",
+          "+(11 to 20)% to Physical/Magic Spell Damage",
+          "Fire Resist +(21 to 40)%",
+          "(9 to 12)% Gold Find",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: 13 to 15"],
+        "requirement": ["Required Level: 37", "Required Dexterity: 83", "Item Level: 41", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+3 to Amazon Skill Levels",
+          "(21 to 40)% Cast Speed",
+          "+50% Damage to Undead",
+          "-9% to Enemy Fire Resistance",
+          "+(21 to 30)% to Physical/Magic Spell Damage",
+          "Fire Resist +(31 to 50)%",
+          "(14 to 17)% Gold Find",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: 16 to 18"],
+        "requirement": ["Required Level: 46", "Required Dexterity: 171", "Item Level: 72", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+4 to Amazon Skill Levels",
+          "(31 to 50)% Cast Speed",
+          "+50% Damage to Undead",
+          "-12% to Enemy Fire Resistance",
+          "+(31 to 40)% to Physical/Magic Spell Damage",
+          "Fire Resist +(41 to 60)%",
+          "(17 to 19)% Gold Find",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Voidstream (Grand Scepter)",
+    "img": "https://docs.median-xl.com/images/baseitems/invgsc.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: 6 to 9"],
+        "requirement": ["Required Level: 4", "Required Dexterity: 40", "Item Level: 6", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+1 to Paladin Skill Levels",
+          "5% Cast Speed",
+          "+50% Damage to Undead",
+          "+(6 to 8)% to Lightning Spell Damage",
+          "+(6 to 8)% to Physical/Magic Spell Damage",
+          "Regenerate Mana +(21 to 25)%",
+          "Physical Damage Reduced by (3 to 5)",
+          "Slows Attacker by (3 to 5)%",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: 12 to 16"],
+        "requirement": ["Required Level: 23", "Required Dexterity: 67", "Item Level: 25", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+2 to Paladin Skill Levels",
+          "15% Cast Speed",
+          "+50% Damage to Undead",
+          "+(11 to 13)% to Lightning Spell Damage",
+          "+(11 to 13)% to Physical/Magic Spell Damage",
+          "Regenerate Mana +(31 to 35)%",
+          "Physical Damage Reduced by (9 to 11)",
+          "Slows Attacker by (9 to 11)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: 19 to 25"],
+        "requirement": ["Required Level: 41", "Required Dexterity: 139", "Item Level: 46", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+3 to Paladin Skill Levels",
+          "25% Cast Speed",
+          "+50% Damage to Undead",
+          "+(16 to 18)% to Lightning Spell Damage",
+          "+(16 to 18)% to Physical/Magic Spell Damage",
+          "Regenerate Mana +(41 to 45)%",
+          "Physical Damage Reduced by (15 to 17)",
+          "Slows Attacker by (15 to 17)%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: 22 to 29"],
+        "requirement": ["Required Level: 51", "Required Dexterity: 279", "Item Level: 80", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+4 to Paladin Skill Levels",
+          "30% Cast Speed",
+          "+50% Damage to Undead",
+          "+(18 to 20)% to Lightning Spell Damage",
+          "+(18 to 20)% to Physical/Magic Spell Damage",
+          "Regenerate Mana +(46 to 50)%",
+          "Physical Damage Reduced by (18 to 20)",
+          "Slows Attacker by (18 to 20)%",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Dreamswayer (War Scepter)",
+    "img": "https://docs.median-xl.com/images/baseitems/invwsp.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (13 - 15) to (21 - 26)"],
+        "requirement": ["Required Level: 7", "Required Dexterity: 64", "Item Level: 12", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "4% Chance to cast level 8 Nightmare on Melee Attack",
+          "+1 to Amazon Skill Levels",
+          "15% Attack Speed",
+          "+(31 to 40)% Enhanced Damage",
+          "Adds (2 to 3)-(4 to 8) damage",
+          "+50% Damage to Undead",
+          "Adds 4-8 lightning damage",
+          "14% Life stolen per Hit",
+          "Total Character Defense 10%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (32 - 37) to (48 - 58)"],
+        "requirement": ["Required Level: 26", "Required Dexterity: 98", "Item Level: 29", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "8% Chance to cast level 16 Nightmare on Melee Attack",
+          "+(1 to 2) to Amazon Skill Levels",
+          "25% Attack Speed",
+          "+(61 to 80)% Enhanced Damage",
+          "Adds (7 to 9)-(13 to 19) damage",
+          "+50% Damage to Undead",
+          "Adds 15-30 lightning damage",
+          "16% Life stolen per Hit",
+          "Total Character Defense 30%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (62 - 69) to (97 - 110)"],
+        "requirement": ["Required Level: 44", "Required Dexterity: 195", "Item Level: 49", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "12% Chance to cast level 22 Nightmare on Melee Attack",
+          "+2 to Amazon Skill Levels",
+          "35% Attack Speed",
+          "+(101 to 120)% Enhanced Damage",
+          "Adds (14 to 17)-(27 to 33) damage",
+          "+50% Damage to Undead",
+          "Adds 60-120 lightning damage",
+          "18% Life stolen per Hit",
+          "Total Character Defense 50%",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (82 - 89) to (124 - 138)"],
+        "requirement": ["Required Level: 54", "Required Dexterity: 387", "Item Level: 85", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "16% Chance to cast level 24 Nightmare on Melee Attack",
+          "+(2 to 3) to Amazon Skill Levels",
+          "40% Attack Speed",
+          "+(121 to 140)% Enhanced Damage",
+          "Adds (18 to 20)-(34 to 40) damage",
+          "+50% Damage to Undead",
+          "Adds 120-240 lightning damage",
+          "20% Life stolen per Hit",
+          "Total Character Defense 60%",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Demon&apos;s Flight (Javelin)",
+    "img": "https://docs.median-xl.com/images/baseitems/invjav.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Throw Damage: 1 to 7", "One-Hand Damage: 5 to 7"],
+        "requirement": ["Required Level: 1", "Item Level: 1", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "40% Chance to cast level 1 Javelin on Kill",
+          "100% Chance to cast level 45 Pentagram when you Level-Up",
+          "Adds 10-20 fire damage",
+          "+(4 to 6) to Wild and Free (Amazon Only)",
+          "3% Reanimate as: Heretic",
+          "+(3 to 5) Mana after each Kill",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Throw Damage: 9 to 13", "One-Hand Damage: 8 to 10"],
+        "requirement": ["Required Level: 18", "Required Dexterity: 18", "Item Level: 20", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "43% Chance to cast level 1 Javelin on Kill",
+          "100% Chance to cast level 50 Pentagram when you Level-Up",
+          "Adds 30-60 fire damage",
+          "+(7 to 10) to Wild and Free (Amazon Only)",
+          "(3 to 4)% Reanimate as: Heretic",
+          "+(6 to 9) Mana after each Kill",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Throw Damage: 19 to 23", "One-Hand Damage: 13 to 16"],
+        "requirement": ["Required Level: 36", "Required Dexterity: 49", "Item Level: 41", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "46% Chance to cast level 1 Javelin on Kill",
+          "100% Chance to cast level 55 Pentagram when you Level-Up",
+          "Adds 90-170 fire damage",
+          "+(11 to 14) to Wild and Free (Amazon Only)",
+          "4% Reanimate as: Heretic",
+          "+(10 to 13) Mana after each Kill",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Throw Damage: 24 to 29", "One-Hand Damage: 16 to 18"],
+        "requirement": ["Required Level: 46", "Required Dexterity: 104", "Item Level: 72", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "50% Chance to cast level 1 Javelin on Kill",
+          "100% Chance to cast level 61 Pentagram when you Level-Up",
+          "Adds 280-500 fire damage",
+          "+(15 to 18) to Wild and Free (Amazon Only)",
+          "5% Reanimate as: Heretic",
+          "+(13 to 15) Mana after each Kill",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Shadowstrike (Pilum)",
+    "img": "https://docs.median-xl.com/images/baseitems/invpil.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Throw Damage: (4 - 5) to (13 - 18)", "One-Hand Damage: (7 - 8) to (13 - 18)"],
+        "requirement": ["Required Level: 3", "Required Dexterity: 29", "Item Level: 4", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "15% Chance to cast level 5 Punisher on Kill",
+          "50% Attack Speed",
+          "+(24 to 40)% Enhanced Damage",
+          "+(4 to 7) to Maximum Damage",
+          "-6% to Enemy Elemental Resistances",
+          "3% Chance of Crushing Blow",
+          "+(6 to 10) to all Attributes",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Throw Damage: (20 - 22) to (40 - 47)", "One-Hand Damage: (15 - 17) to (31 - 36)"],
+        "requirement": ["Required Level: 21", "Required Dexterity: 53", "Item Level: 24", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "20% Chance to cast level 17 Punisher on Kill",
+          "65% Attack Speed",
+          "+(58 to 75)% Enhanced Damage",
+          "+(9 to 12) to Maximum Damage",
+          "-9% to Enemy Elemental Resistances",
+          "6% Chance of Crushing Blow",
+          "+(11 to 20) to all Attributes",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Throw Damage: (46 - 50) to (83 - 92)", "One-Hand Damage: (30 - 33) to (54 - 60)"],
+        "requirement": ["Required Level: 40", "Required Dexterity: 114", "Item Level: 44", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "25% Chance to cast level 29 Punisher on Kill",
+          "80% Attack Speed",
+          "+(92 to 109)% Enhanced Damage",
+          "+(14 to 17) to Maximum Damage",
+          "-12% to Enemy Elemental Resistances",
+          "8% Chance of Crushing Blow",
+          "+(21 to 30) to all Attributes",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Throw Damage: (62 - 67) to (108 - 118)", "One-Hand Damage: (37 - 40) to (69 - 75)"],
+        "requirement": ["Required Level: 49", "Required Dexterity: 230", "Item Level: 77", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "30% Chance to cast level 35 Punisher on Kill",
+          "100% Attack Speed",
+          "+(109 to 126)% Enhanced Damage",
+          "+(17 to 19) to Maximum Damage",
+          "-15% to Enemy Elemental Resistances",
+          "10% Chance of Crushing Blow",
+          "+(31 to 40) to all Attributes",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Icepick (Short Spear)",
+    "img": "https://docs.median-xl.com/images/baseitems/invssp.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Throw Damage: 7 to (26 - 31)", "One-Hand Damage: (8 - 9) to (22 - 27)"],
+        "requirement": ["Required Level: 5", "Required Dexterity: 47", "Item Level: 7", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "7% Chance to cast level 10 Shatter the Flesh on Kill",
+          "+1 to Amazon Skill Levels",
+          "15% Hit Recovery",
+          "+(18 to 29)% Enhanced Damage",
+          "+(11 to 15) to Maximum Damage",
+          "Adds 6-10 cold damage",
+          "-(4 to 6)% to Enemy Cold Resistance",
+          "Cold Resist +(21 to 25)%",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Throw Damage: (22 - 24) to (56 - 64)", "One-Hand Damage: (16 - 18) to (41 - 47)"],
+        "requirement": ["Required Level: 23", "Required Dexterity: 76", "Item Level: 26", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "8% Chance to cast level 20 Shatter the Flesh on Kill",
+          "+2 to Amazon Skill Levels",
+          "25% Hit Recovery",
+          "+(41 to 52)% Enhanced Damage",
+          "+(16 to 20) to Maximum Damage",
+          "Adds 16-20 cold damage",
+          "-(7 to 10)% to Enemy Cold Resistance",
+          "Cold Resist +(31 to 35)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Throw Damage: (47 - 50) to (99 - 109)", "One-Hand Damage: (29 - 31) to (65 - 72)"],
+        "requirement": ["Required Level: 42", "Required Dexterity: 155", "Item Level: 46", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "9% Chance to cast level 30 Shatter the Flesh on Kill",
+          "+2 to Amazon Skill Levels",
+          "35% Hit Recovery",
+          "+(64 to 75)% Enhanced Damage",
+          "+(21 to 25) to Maximum Damage",
+          "Adds 61-70 cold damage",
+          "-(11 to 15)% to Enemy Cold Resistance",
+          "Cold Resist +(41 to 45)%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Throw Damage: (63 - 66) to (127 - 137)", "One-Hand Damage: (36 - 39) to (82 - 89)"],
+        "requirement": ["Required Level: 51", "Required Dexterity: 310", "Item Level: 80", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "10% Chance to cast level 40 Shatter the Flesh on Kill",
+          "+3 to Amazon Skill Levels",
+          "40% Hit Recovery",
+          "+(75 to 86)% Enhanced Damage",
+          "+(26 to 30) to Maximum Damage",
+          "Adds 160-200 cold damage",
+          "-(16 to 20)% to Enemy Cold Resistance",
+          "Cold Resist +(46 to 50)%",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Sudis Murale (Glaive)",
+    "img": "https://docs.median-xl.com/images/baseitems/invglv.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Throw Damage: (10 - 12) to (34 - 42)", "One-Hand Damage: (10 - 12) to (28 - 34)"],
+        "requirement": ["Required Level: 7", "Required Dexterity: 65", "Item Level: 11", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "4% Chance to cast level 4 Fortress on Kill",
+          "+(31 to 50)% Enhanced Damage",
+          "+(11 to 15) to Maximum Damage",
+          "(1 to 2)% Chance of Crushing Blow",
+          "+(21 to 25) to Strength",
+          "+(21 to 25) to Dexterity",
+          "Total Character Defense (11 to 20)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Throw Damage: (31 - 35) to (76 - 89)", "One-Hand Damage: (20 - 22) to (52 - 63)"],
+        "requirement": ["Required Level: 25", "Required Dexterity: 99", "Item Level: 28", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "5% Chance to cast level 10 Fortress on Kill",
+          "+(58 to 75)% Enhanced Damage",
+          "+(18 to 25) to Maximum Damage",
+          "(3 to 4)% Chance of Crushing Blow",
+          "+(31 to 35) to Strength",
+          "+(31 to 35) to Dexterity",
+          "Total Character Defense (21 to 30)%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Throw Damage: (66 - 73) to (148 - 168)", "One-Hand Damage: (38 - 42) to (97 - 112)"],
+        "requirement": ["Required Level: 44", "Required Dexterity: 197", "Item Level: 48", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "6% Chance to cast level 16 Fortress on Kill",
+          "+(91 to 110)% Enhanced Damage",
+          "+(36 to 45) to Maximum Damage",
+          "(5 to 6)% Chance of Crushing Blow",
+          "+(41 to 45) to Strength",
+          "+(41 to 45) to Dexterity",
+          "Total Character Defense (31 to 40)%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Throw Damage: (92 - 100) to (227 - 250)", "One-Hand Damage: (53 - 57) to (154 - 171)"],
+        "requirement": ["Required Level: 53", "Required Dexterity: 391", "Item Level: 84", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "7% Chance to cast level 19 Fortress on Kill",
+          "+(121 to 140)% Enhanced Damage",
+          "+(71 to 80) to Maximum Damage",
+          "(7 to 8)% Chance of Crushing Blow",
+          "+(46 to 50) to Strength",
+          "+(46 to 50) to Dexterity",
+          "Total Character Defense (46 to 50)%",
+          "Socketed (4)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Dwaallicht (Throwing Spear)",
+    "img": "https://docs.median-xl.com/images/baseitems/invtsp.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Throw Damage: (15 - 18) to (44 - 59)", "One-Hand Damage: (12 - 14) to (33 - 47)"],
+        "requirement": ["Required Level: 10", "Required Dexterity: 95", "Item Level: 16", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "20% Attack Speed",
+          "+(51 to 80)% Enhanced Damage",
+          "+(11 to 20) to Maximum Damage",
+          "(31 to 50)% Bonus to Attack Rating",
+          "Adds (11 to 15)-(16 to 30) magic damage",
+          "(3 to 6)% Mana stolen per Hit",
+          "(2 to 3)% Life stolen per Hit",
+          "Enhanced Weapon Damage +(41 to 50)%",
+          "Requirements +15%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Throw Damage: (41 - 48) to (98 - 120)", "One-Hand Damage: (27 - 31) to (66 - 82)"],
+        "requirement": ["Required Level: 29", "Required Dexterity: 153", "Item Level: 32", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "30% Attack Speed",
+          "+(81 to 110)% Enhanced Damage",
+          "+(21 to 30) to Maximum Damage",
+          "(71 to 90)% Bonus to Attack Rating",
+          "Adds (31 to 40)-(51 to 75) magic damage",
+          "(11 to 14)% Mana stolen per Hit",
+          "(5 to 7)% Life stolen per Hit",
+          "Enhanced Weapon Damage +(61 to 70)%",
+          "Requirements +25%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Throw Damage: (80 - 91) to (181 - 210)", "One-Hand Damage: (48 - 55) to (114 - 133)"],
+        "requirement": ["Required Level: 47", "Required Dexterity: 322", "Item Level: 53", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "40% Attack Speed",
+          "+(111 to 140)% Enhanced Damage",
+          "+(36 to 45) to Maximum Damage",
+          "(111 to 130)% Bonus to Attack Rating",
+          "Adds (201 to 240)-(251 to 300) magic damage",
+          "(19 to 22)% Mana stolen per Hit",
+          "(9 to 11)% Life stolen per Hit",
+          "Enhanced Weapon Damage +(81 to 90)%",
+          "Requirements +35%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Throw Damage: (113 - 126) to (255 - 294)", "One-Hand Damage: (62 - 70) to (157 - 183)"],
+        "requirement": ["Required Level: 55", "Required Dexterity: 708", "Item Level: 86", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "50% Attack Speed",
+          "+(141 to 170)% Enhanced Damage",
+          "+(51 to 65) to Maximum Damage",
+          "(131 to 150)% Bonus to Attack Rating",
+          "Adds (401 to 480)-(501 to 600) magic damage",
+          "(23 to 26)% Mana stolen per Hit",
+          "(12 to 13)% Life stolen per Hit",
+          "Enhanced Weapon Damage +(91 to 100)%",
+          "Requirements +50%",
+          "Socketed (4)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Ravenbeak (Spear)",
+    "img": "https://docs.median-xl.com/images/baseitems/invspr.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (5 - 6) to (32 - 43)"],
+        "requirement": ["Required Level: 1", "Item Level: 1", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "15% Chance to cast level 15 Flamefront on Melee Attack",
+          "15% Attack Speed",
+          "+(18 to 35)% Enhanced Damage",
+          "+(21 to 30) to Maximum Damage",
+          "(5 to 8)% Life stolen per Hit",
+          "(5 to 8)% to Dexterity",
+          "+(21 to 30) to Dexterity",
+          "(11 to 15)% Magic Find",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (15 - 16) to (52 - 63)"],
+        "requirement": ["Required Level: 18", "Required Strength: 18", "Required Dexterity: 18", "Item Level: 20", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "20% Chance to cast level 20 Flamefront on Melee Attack",
+          "30% Attack Speed",
+          "+(52 to 69)% Enhanced Damage",
+          "+(31 to 40) to Maximum Damage",
+          "(9 to 13)% Life stolen per Hit",
+          "(9 to 12)% to Dexterity",
+          "+(41 to 60) to Dexterity",
+          "(21 to 25)% Magic Find",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (33 - 36) to (84 - 96)"],
+        "requirement": ["Required Level: 36", "Required Strength: 49", "Required Dexterity: 49", "Item Level: 40", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "30% Chance to cast level 30 Flamefront on Melee Attack",
+          "45% Attack Speed",
+          "+(87 to 103)% Enhanced Damage",
+          "+(41 to 50) to Maximum Damage",
+          "(15 to 18)% Life stolen per Hit",
+          "(13 to 16)% to Dexterity",
+          "+(71 to 90) to Dexterity",
+          "(31 to 35)% Magic Find",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (44 - 48) to (110 - 123)"],
+        "requirement": ["Required Level: 46", "Required Strength: 104", "Required Dexterity: 104", "Item Level: 72", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "40% Chance to cast level 40 Flamefront on Melee Attack",
+          "60% Attack Speed",
+          "+(104 to 120)% Enhanced Damage",
+          "+(51 to 60) to Maximum Damage",
+          "(21 to 25)% Life stolen per Hit",
+          "(17 to 20)% to Dexterity",
+          "+(101 to 120) to Dexterity",
+          "(36 to 40)% Magic Find",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Sea Summoner (Trident)",
+    "img": "https://docs.median-xl.com/images/baseitems/invtri.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (6 - 7) to (12 - 14)"],
+        "requirement": ["Required Level: 3", "Required Strength: 18", "Required Dexterity: 29", "Item Level: 4", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "5% Chance to cast level 2 Glacial Nova on Melee Attack",
+          "+(24 to 40)% Enhanced Damage",
+          "Adds (6 to 9)-(9 to 13) cold damage",
+          "Slow Target (3 to 5)%",
+          "+(16 to 25) to Dexterity",
+          "+8 Life Regenerated per Second",
+          "Total Character Defense (11 to 20)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (18 - 21) to (33 - 36)"],
+        "requirement": ["Required Level: 21", "Required Strength: 39", "Required Dexterity: 53", "Item Level: 24", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "6% Chance to cast level 6 Glacial Nova on Melee Attack",
+          "+(58 to 75)% Enhanced Damage",
+          "Adds (26 to 35)-(41 to 50) cold damage",
+          "Slow Target (9 to 11)%",
+          "+(36 to 45) to Dexterity",
+          "+10 Life Regenerated per Second",
+          "Total Character Defense (21 to 30)%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (38 - 41) to (63 - 68)"],
+        "requirement": ["Required Level: 40", "Required Strength: 88", "Required Dexterity: 114", "Item Level: 44", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "7% Chance to cast level 10 Glacial Nova on Melee Attack",
+          "+(92 to 109)% Enhanced Damage",
+          "Adds (101 to 140)-(161 to 200) cold damage",
+          "Slow Target (15 to 17)%",
+          "+(56 to 65) to Dexterity",
+          "+13 Life Regenerated per Second",
+          "Total Character Defense (31 to 40)%",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (50 - 54) to (83 - 90)"],
+        "requirement": ["Required Level: 49", "Required Strength: 180", "Required Dexterity: 230", "Item Level: 77", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "8% Chance to cast level 12 Glacial Nova on Melee Attack",
+          "+(109 to 126)% Enhanced Damage",
+          "Adds (231 to 280)-(351 to 400) cold damage",
+          "Slow Target (18 to 20)%",
+          "+(66 to 75) to Dexterity",
+          "+15 Life Regenerated per Second",
+          "Total Character Defense (41 to 50)%",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Shieldcracker (Brandistock)",
+    "img": "https://docs.median-xl.com/images/baseitems/invbrn.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (9 - 10) to (33 - 45)"],
+        "requirement": ["Required Level: 5", "Required Strength: 30", "Required Dexterity: 46", "Item Level: 7", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "+(61 to 80)% Enhanced Damage",
+          "+(11 to 20) to Maximum Damage",
+          "(51 to 80)% Bonus to Attack Rating",
+          "Enhanced Weapon Damage +(16 to 20)%",
+          "(11 to 15)% to Strength",
+          "(11 to 15)% to Dexterity",
+          "+20 Life on Attack",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (24 - 27) to (82 - 96)"],
+        "requirement": ["Required Level: 23", "Required Strength: 55", "Required Dexterity: 75", "Item Level: 26", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "+(91 to 110)% Enhanced Damage",
+          "+(31 to 40) to Maximum Damage",
+          "(91 to 120)% Bonus to Attack Rating",
+          "Enhanced Weapon Damage +(21 to 30)%",
+          "(21 to 25)% to Strength",
+          "(21 to 25)% to Dexterity",
+          "+50 Life on Attack",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (48 - 52) to (146 - 163)"],
+        "requirement": ["Required Level: 42", "Required Strength: 116", "Required Dexterity: 153", "Item Level: 46", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "+(121 to 140)% Enhanced Damage",
+          "+(51 to 60) to Maximum Damage",
+          "(131 to 160)% Bonus to Attack Rating",
+          "Enhanced Weapon Damage +(36 to 45)%",
+          "(31 to 35)% to Strength",
+          "(31 to 35)% to Dexterity",
+          "+75 Life on Attack",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (65 - 70) to (209 - 227)"],
+        "requirement": ["Required Level: 51", "Required Strength: 234", "Required Dexterity: 306", "Item Level: 80", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "+(151 to 170)% Enhanced Damage",
+          "+(81 to 90) to Maximum Damage",
+          "(171 to 200)% Bonus to Attack Rating",
+          "Enhanced Weapon Damage +(51 to 60)%",
+          "(36 to 40)% to Strength",
+          "(36 to 40)% to Dexterity",
+          "+100 Life on Attack",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Fangspear (Spetum)",
+    "img": "https://docs.median-xl.com/images/baseitems/invspt.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (17 - 20) to (44 - 56)"],
+        "requirement": ["Required Level: 24", "Required Strength: 42", "Required Dexterity: 63", "Item Level: 10", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "10% Chance to cast level 5 Miasma on Melee Attack",
+          "15% Attack Speed",
+          "+(30 to 46)% Enhanced Damage",
+          "Adds (8 to 10)-(21 to 30) damage",
+          "(61 to 100)% Bonus to Miasma Haunt Duration",
+          "+(1 to 3) to Daedalus (Barbarian Only)",
+          "+(11 to 15) Life after each Kill",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (33 - 40) to (86 - 101)"],
+        "requirement": ["Required Level: 25", "Required Strength: 70", "Required Dexterity: 97", "Item Level: 28", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "15% Chance to cast level 11 Miasma on Melee Attack",
+          "30% Attack Speed",
+          "+(64 to 80)% Enhanced Damage",
+          "Adds (11 to 15)-(31 to 40) damage",
+          "(141 to 180)% Bonus to Miasma Haunt Duration",
+          "+(4 to 8) to Daedalus (Barbarian Only)",
+          "+(21 to 25) Life after each Kill",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (63 - 71) to (143 - 161)"],
+        "requirement": ["Required Level: 44", "Required Strength: 144", "Required Dexterity: 193", "Item Level: 48", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "20% Chance to cast level 18 Miasma on Melee Attack",
+          "45% Attack Speed",
+          "+(98 to 114)% Enhanced Damage",
+          "Adds (16 to 20)-(41 to 50) damage",
+          "(221 to 260)% Bonus to Miasma Haunt Duration",
+          "+(9 to 13) to Daedalus (Barbarian Only)",
+          "+(31 to 35) Life after each Kill",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (83 - 97) to (184 - 203)"],
+        "requirement": ["Required Level: 53", "Required Strength: 288", "Required Dexterity: 382", "Item Level: 83", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "25% Chance to cast level 25 Miasma on Melee Attack",
+          "60% Attack Speed",
+          "+(115 to 132)% Enhanced Damage",
+          "Adds (21 to 30)-(51 to 60) damage",
+          "(261 to 300)% Bonus to Miasma Haunt Duration",
+          "+(14 to 18) to Daedalus (Barbarian Only)",
+          "+(36 to 40) Life after each Kill",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Death Pit Stake (Pike)",
+    "img": "https://docs.median-xl.com/images/baseitems/invpik.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (12 - 16) to (34 - 47)"],
+        "requirement": ["Required Level: 10", "Required Strength: 45 to 48", "Required Dexterity: 68 to 71", "Item Level: 16", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "14% Chance to cast level 4 Arachnomancy on Melee Attack",
+          "15% Attack Speed",
+          "+(35 to 57)% Enhanced Damage",
+          "Adds (2 to 4)-(6 to 15) damage",
+          "+(11 to 15)% to Poison Spell Damage",
+          "+(3 to 6) to Divine Judgment (Paladin Only)",
+          "Poison Length Reduced by 30%",
+          "Requirements -(11 to 15)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (33 - 45) to (91 - 109)"],
+        "requirement": ["Required Level: 29", "Required Strength: 63 to 67", "Required Dexterity: 88 to 93", "Item Level: 32", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "16% Chance to cast level 17 Arachnomancy on Melee Attack",
+          "25% Attack Speed",
+          "+(81 to 103)% Enhanced Damage",
+          "Adds (6 to 15)-(21 to 30) damage",
+          "+(16 to 20)% to Poison Spell Damage",
+          "+(7 to 10) to Divine Judgment (Paladin Only)",
+          "Poison Length Reduced by 45%",
+          "Requirements -(21 to 25)%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (72 - 87) to (171 - 199)"],
+        "requirement": ["Required Level: 47", "Required Strength: 111 to 118", "Required Dexterity: 150 to 160", "Item Level: 52", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "18% Chance to cast level 30 Arachnomancy on Melee Attack",
+          "35% Attack Speed",
+          "+(126 to 149)% Enhanced Damage",
+          "Adds (16 to 25)-(36 to 50) damage",
+          "+(21 to 25)% to Poison Spell Damage",
+          "+(11 to 14) to Divine Judgment (Paladin Only)",
+          "Poison Length Reduced by 60%",
+          "Requirements -(31 to 35)%",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (83 - 96) to (265 - 292)"],
+        "requirement": ["Required Level: 55", "Required Strength: 205 to 218", "Required Dexterity: 274 to 293", "Item Level: 86", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "20% Chance to cast level 44 Arachnomancy on Melee Attack",
+          "40% Attack Speed",
+          "+(149 to 171)% Enhanced Damage",
+          "Adds (31 to 40)-(61 to 70) damage",
+          "+(26 to 30)% to Poison Spell Damage",
+          "+(15 to 18) to Divine Judgment (Paladin Only)",
+          "Poison Length Reduced by 75%",
+          "Requirements -(36 to 40)%",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Bonefiend (Scythe)",
+    "img": "https://docs.median-xl.com/images/baseitems/invscy.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (4 - 5) to (38 - 50)"],
+        "requirement": ["Required Level: 6", "Required Strength: 49", "Required Dexterity: 49", "Item Level: 9", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "6% Chance to cast level 5 Crucify on Melee Attack",
+          "+(24 to 40)% Enhanced Damage",
+          "+(16 to 25) to Maximum Damage",
+          "+(101 to 150)% Damage to Undead",
+          "(7 to 10)% to Strength",
+          "(2 to 3)% Reanimate as: Horror Archer",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (15 - 17) to (83 - 97)"],
+        "requirement": ["Required Level: 24", "Required Strength: 79", "Required Dexterity: 79", "Item Level: 27", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "8% Chance to cast level 10 Crucify on Melee Attack",
+          "+(58 to 75)% Enhanced Damage",
+          "+(31 to 40) to Maximum Damage",
+          "+(201 to 250)% Damage to Undead",
+          "(15 to 18)% to Strength",
+          "(5 to 6)% Reanimate as: Horror Archer",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (32 - 35) to (145 - 163)"],
+        "requirement": ["Required Level: 43", "Required Strength: 160", "Required Dexterity: 160", "Item Level: 47", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "10% Chance to cast level 15 Crucify on Melee Attack",
+          "+(92 to 109)% Enhanced Damage",
+          "+(46 to 55) to Maximum Damage",
+          "+(301 to 350)% Damage to Undead",
+          "(23 to 26)% to Strength",
+          "(8 to 9)% Reanimate as: Horror Archer",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (43 - 47) to (190 - 210)"],
+        "requirement": ["Required Level: 52", "Required Strength: 319", "Required Dexterity: 319", "Item Level: 82", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
+        "attribute": [
+          "12% Chance to cast level 20 Crucify on Melee Attack",
+          "+(109 to 126)% Enhanced Damage",
+          "+(61 to 70) to Maximum Damage",
+          "+(351 to 400)% Damage to Undead",
+          "(27 to 30)% to Strength",
+          "(9 to 10)% Reanimate as: Horror Archer",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "The Shanker (Dagger)",
+    "img": "https://docs.median-xl.com/images/baseitems/invdgr.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (4 - 5) to (5 - 6)"],
+        "requirement": ["Required Level: 1", "Item Level: 1", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": ["+(12 to 35)% Enhanced Damage", "+25 poison damage over 1 seconds", "-3% to Enemy Poison Resistance", "Slow Target (3 to 5)%", "Socketed (1)"]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (12 - 14) to (14 - 16)"],
+        "requirement": ["Required Level: 18", "Required Dexterity: 18", "Item Level: 20", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": ["+(58 to 80)% Enhanced Damage", "+50 poison damage over 1 seconds", "-6% to Enemy Poison Resistance", "Slow Target (9 to 11)%", "Socketed (2)"]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (26 - 29) to (28 - 31)"],
+        "requirement": ["Required Level: 36", "Required Dexterity: 49", "Item Level: 40", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": ["+(104 to 126)% Enhanced Damage", "+125 poison damage over 1 seconds", "-9% to Enemy Poison Resistance", "Slow Target (15 to 17)%", "Socketed (2)"]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (36 - 39) to (38 - 42)"],
+        "requirement": ["Required Level: 45", "Required Dexterity: 104", "Item Level: 72", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": ["+(126 to 149)% Enhanced Damage", "+363 poison damage over 1 seconds", "-12% to Enemy Poison Resistance", "Slow Target (18 to 20)%", "Socketed (2)"]
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Quov Tsin&apos;s Fall (Dirk)",
+    "img": "https://docs.median-xl.com/images/baseitems/invdir.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: 5"],
+        "requirement": ["Required Level: 4", "Required Dexterity: 25", "Item Level: 6", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+1 to Necromancer Skill Levels",
+          "15% Cast Speed",
+          "-4% to Enemy Fire Resistance",
+          "-4% to Enemy Poison Resistance",
+          "Fire Resist +(21 to 25)%",
+          "Poison Resist +(21 to 25)%",
+          "(3 to 4)% Reanimate as: Succubus",
+          "(3 to 4)% Reanimate as: Dark Magistrate",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: 9 to 10"],
+        "requirement": ["Required Level: 22", "Required Dexterity: 48", "Item Level: 25", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+2 to Necromancer Skill Levels",
+          "25% Cast Speed",
+          "-8% to Enemy Fire Resistance",
+          "-8% to Enemy Poison Resistance",
+          "Fire Resist +(31 to 35)%",
+          "Poison Resist +(31 to 35)%",
+          "(5 to 6)% Reanimate as: Succubus",
+          "(5 to 6)% Reanimate as: Dark Magistrate",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: 15 to 16"],
+        "requirement": ["Required Level: 41", "Required Dexterity: 104", "Item Level: 45", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+3 to Necromancer Skill Levels",
+          "35% Cast Speed",
+          "-12% to Enemy Fire Resistance",
+          "-12% to Enemy Poison Resistance",
+          "Fire Resist +(41 to 45)%",
+          "Poison Resist +(41 to 45)%",
+          "(7 to 8)% Reanimate as: Succubus",
+          "(7 to 8)% Reanimate as: Dark Magistrate",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: 18 to 20"],
+        "requirement": ["Required Level: 50", "Required Dexterity: 212", "Item Level: 79", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+(4 to 5) to Necromancer Skill Levels",
+          "40% Cast Speed",
+          "-15% to Enemy Fire Resistance",
+          "-15% to Enemy Poison Resistance",
+          "Fire Resist +(46 to 50)%",
+          "Poison Resist +(46 to 50)%",
+          "(9 to 10)% Reanimate as: Succubus",
+          "(9 to 10)% Reanimate as: Dark Magistrate",
+          "Socketed (2)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Acidburn (Kriss)",
+    "img": "https://docs.median-xl.com/images/baseitems/invkrs.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: 6"],
+        "requirement": ["Required Level: 6", "Required Dexterity: 43", "Item Level: 9", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+1 to Druid Skill Levels",
+          "+1 to Sorceress Skill Levels",
+          "15% Hit Recovery",
+          "-(8 to 10)% to Enemy Fire Resistance",
+          "-(8 to 10)% to Enemy Poison Resistance",
+          "Fire Resist +(21 to 25)%",
+          "Poison Resist +(21 to 25)%",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: 11 to 12"],
+        "requirement": ["Required Level: 24", "Required Dexterity: 71", "Item Level: 27", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+2 to Druid Skill Levels",
+          "+2 to Sorceress Skill Levels",
+          "25% Hit Recovery",
+          "-(13 to 15)% to Enemy Fire Resistance",
+          "-(13 to 15)% to Enemy Poison Resistance",
+          "Fire Resist +(31 to 35)%",
+          "Poison Resist +(31 to 35)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: 17 to 19"],
+        "requirement": ["Required Level: 43", "Required Dexterity: 146", "Item Level: 47", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+3 to Druid Skill Levels",
+          "+3 to Sorceress Skill Levels",
+          "35% Hit Recovery",
+          "-(18 to 20)% to Enemy Fire Resistance",
+          "-(18 to 20)% to Enemy Poison Resistance",
+          "Fire Resist +(41 to 45)%",
+          "Poison Resist +(41 to 45)%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: 20 to 23"],
+        "requirement": ["Required Level: 52", "Required Dexterity: 292", "Item Level: 82", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+4 to Druid Skill Levels",
+          "+4 to Sorceress Skill Levels",
+          "40% Hit Recovery",
+          "-(21 to 23)% to Enemy Fire Resistance",
+          "-(21 to 23)% to Enemy Poison Resistance",
+          "Fire Resist +(46 to 50)%",
+          "Poison Resist +(46 to 50)%",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Clawscratch (Blade)",
+    "img": "https://docs.median-xl.com/images/baseitems/invbld.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["One-Hand Damage: (7 - 8) to (19 - 30)"],
+        "requirement": ["Required Level: 10", "Required Dexterity: 61", "Item Level: 15", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+1 to Druid Skill Levels",
+          "+5% Bonus Damage to Mark of the Wild",
+          "15% Attack Speed",
+          "15% Hit Recovery",
+          "+(24 to 46)% Enhanced Damage",
+          "+(11 to 20) to Maximum Damage",
+          "(11 to 25)% Duration Bonus to Mark of the Wild",
+          "+(7 to 10) to Vitality",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["One-Hand Damage: (20 - 23) to (54 - 66)"],
+        "requirement": ["Required Level: 28", "Required Dexterity: 95", "Item Level: 32", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+(1 to 2) to Druid Skill Levels",
+          "+10% Bonus Damage to Mark of the Wild",
+          "25% Attack Speed",
+          "25% Hit Recovery",
+          "+(69 to 92)% Enhanced Damage",
+          "+(31 to 40) to Maximum Damage",
+          "(41 to 55)% Duration Bonus to Mark of the Wild",
+          "+(15 to 18) to Vitality",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["One-Hand Damage: (40 - 45) to (96 - 109)"],
+        "requirement": ["Required Level: 47", "Required Dexterity: 188", "Item Level: 52", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+(2 to 3) to Druid Skill Levels",
+          "+15% Bonus Damage to Mark of the Wild",
+          "35% Attack Speed",
+          "35% Hit Recovery",
+          "+(115 to 137)% Enhanced Damage",
+          "+(51 to 60) to Maximum Damage",
+          "(71 to 85)% Duration Bonus to Mark of the Wild",
+          "+(23 to 26) to Vitality",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["One-Hand Damage: (52 - 57) to (122 - 137)"],
+        "requirement": ["Required Level: 54", "Required Dexterity: 373", "Item Level: 86", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+(2 to 4) to Druid Skill Levels",
+          "+20% Bonus Damage to Mark of the Wild",
+          "40% Attack Speed",
+          "40% Hit Recovery",
+          "+(138 to 160)% Enhanced Damage",
+          "+(61 to 70) to Maximum Damage",
+          "(86 to 100)% Duration Bonus to Mark of the Wild",
+          "+(27 to 30) to Vitality",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Death Touch (Throwing Knife)",
+    "img": "https://docs.median-xl.com/images/baseitems/invtkn.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Throw Damage: 2 to 7", "One-Hand Damage: 4 to 6"],
+        "requirement": ["Required Level: 1", "Required Dexterity: 17", "Item Level: 1", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "2% Chance to cast level 8 Scorpion Blade on Kill",
+          "+1 to Assassin Skill Levels",
+          "(21 to 50)% Bonus to Attack Rating",
+          "+(6 to 8)% to Poison Spell Damage",
+          "-(6 to 8)% to Enemy Poison Resistance",
+          "Requirements +15%",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Throw Damage: 9 to 10", "One-Hand Damage: 8"],
+        "requirement": ["Required Level: 18", "Required Dexterity: 45", "Item Level: 20", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "3% Chance to cast level 16 Scorpion Blade on Kill",
+          "+2 to Assassin Skill Levels",
+          "(81 to 110)% Bonus to Attack Rating",
+          "+(11 to 13)% to Poison Spell Damage",
+          "-(11 to 13)% to Enemy Poison Resistance",
+          "Requirements +25%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Throw Damage: 17 to 18", "One-Hand Damage: 12"],
+        "requirement": ["Required Level: 36", "Required Dexterity: 109", "Item Level: 40", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "5% Chance to cast level 24 Scorpion Blade on Kill",
+          "+3 to Assassin Skill Levels",
+          "(141 to 170)% Bonus to Attack Rating",
+          "+(16 to 18)% to Poison Spell Damage",
+          "-(16 to 18)% to Enemy Poison Resistance",
+          "Requirements +35%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Throw Damage: 22 to 23", "One-Hand Damage: 14"],
+        "requirement": ["Required Level: 45", "Required Dexterity: 250", "Item Level: 72", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "6% Chance to cast level 32 Scorpion Blade on Kill",
+          "+(4 to 5) to Assassin Skill Levels",
+          "(171 to 200)% Bonus to Attack Rating",
+          "+(18 to 20)% to Poison Spell Damage",
+          "-(18 to 20)% to Enemy Poison Resistance",
+          "Requirements +50%",
+          "Socketed (2)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Icebird (Flying Knife)",
+    "img": "https://docs.median-xl.com/images/baseitems/invtkn.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Throw Damage: (7 - 8) to (8 - 9)", "One-Hand Damage: (7 - 8) to (8 - 9)"],
+        "requirement": ["Required Level: 12", "Required Dexterity: 53", "Item Level: 6", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "1% Chance to cast level 2 Shackles of Ice on Striking",
+          "+(18 to 40)% Enhanced Damage",
+          "Adds (6 to 7)-(9 to 17) cold damage",
+          "-(4 to 6)% to Enemy Cold Resistance",
+          "+(1 to 2) to APF-20 &apos;Maelstrom&apos; MkI",
+          "Cold Absorb 2%",
+          "8% Magic Find",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Throw Damage: (26 - 29) to (29 - 33)", "One-Hand Damage: (18 - 20) to (19 - 22)"],
+        "requirement": ["Required Level: 23", "Required Dexterity: 84", "Item Level: 25", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "1% Chance to cast level 6 Shackles of Ice on Striking",
+          "+(64 to 86)% Enhanced Damage",
+          "Adds (21 to 25)-(51 to 65) cold damage",
+          "-(7 to 9)% to Enemy Cold Resistance",
+          "+(3 to 6) to APF-20 &apos;Maelstrom&apos; MkI",
+          "Cold Absorb 3%",
+          "13% Magic Find",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Throw Damage: (56 - 62) to (64 - 71)", "One-Hand Damage: (33 - 37) to (37 - 41)"],
+        "requirement": ["Required Level: 41", "Required Dexterity: 169", "Item Level: 46", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "1% Chance to cast level 10 Shackles of Ice on Striking",
+          "+(109 to 132)% Enhanced Damage",
+          "Adds (81 to 100)-(241 to 260) cold damage",
+          "-(10 to 12)% to Enemy Cold Resistance",
+          "+(7 to 11) to APF-20 &apos;Maelstrom&apos; MkI",
+          "Cold Absorb 4%",
+          "18% Magic Find",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Throw Damage: (76 - 83) to (85 - 93)", "One-Hand Damage: (44 - 48) to (48 - 53)"],
+        "requirement": ["Required Level: 50", "Required Dexterity: 337", "Item Level: 80", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "1% Chance to cast level 12 Shackles of Ice on Striking",
+          "+(132 to 154)% Enhanced Damage",
+          "Adds (181 to 200)-(421 to 520) cold damage",
+          "-(13 to 15)% to Enemy Cold Resistance",
+          "+(12 to 16) to APF-20 &apos;Maelstrom&apos; MkI",
+          "Cold Absorb 5%",
+          "20% Magic Find",
+          "Socketed (2)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Ironsleet (Balanced Knife)",
+    "img": "https://docs.median-xl.com/images/baseitems/invbkf.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Throw Damage: (12 - 14) to (22 - 34)", "One-Hand Damage: (9 - 11) to (19 - 30)"],
+        "requirement": ["Required Level: 7", "Required Dexterity: 91", "Item Level: 12", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "5% Chance to cast level 10 Cold Fear on Kill",
+          "5% Chance to cast level 3 Knife Throw on Striking",
+          "+(24 to 46)% Enhanced Damage",
+          "+(8 to 17) to Maximum Damage",
+          "Enhanced Weapon Damage +20%",
+          "Cold Resist +(21 to 25)%",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Throw Damage: (37 - 42) to (69 - 83)", "One-Hand Damage: (23 - 26) to (53 - 64)"],
+        "requirement": ["Required Level: 26", "Required Dexterity: 132", "Item Level: 29", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "6% Chance to cast level 20 Cold Fear on Kill",
+          "6% Chance to cast level 7 Knife Throw on Striking",
+          "+(69 to 92)% Enhanced Damage",
+          "+(26 to 34) to Maximum Damage",
+          "Enhanced Weapon Damage +40%",
+          "Cold Resist +(31 to 35)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Throw Damage: (79 - 87) to (133 - 151)", "One-Hand Damage: (45 - 49) to (94 - 108)"],
+        "requirement": ["Required Level: 44", "Required Dexterity: 258", "Item Level: 49", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "7% Chance to cast level 30 Cold Fear on Kill",
+          "7% Chance to cast level 11 Knife Throw on Striking",
+          "+(115 to 137)% Enhanced Damage",
+          "+(43 to 52) to Maximum Damage",
+          "Enhanced Weapon Damage +60%",
+          "Cold Resist +(41 to 45)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Throw Damage: (104 - 114) to (173 - 192)", "One-Hand Damage: (57 - 62) to (118 - 132)"],
+        "requirement": ["Required Level: 54", "Required Dexterity: 508", "Item Level: 85", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "8% Chance to cast level 40 Cold Fear on Kill",
+          "8% Chance to cast level 13 Knife Throw on Striking",
+          "+(138 to 160)% Enhanced Damage",
+          "+(52 to 60) to Maximum Damage",
+          "Enhanced Weapon Damage +80%",
+          "Cold Resist +(46 to 50)%",
+          "Socketed (2)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Sterrenvogel (Throwing Axe)",
+    "img": "https://docs.median-xl.com/images/baseitems/invtax.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "requirement": ["Required Level: 1", "Required Strength: 15", "Item Level: 1"],
+        "attribute": [
+          "+1 to Barbarian Skill Levels",
+          "Adds (3 to 6)-(7 to 10) fire damage",
+          "Adds 12-18 lightning damage",
+          "Adds (3 to 6)-(7 to 10) cold damage",
+          "-(6 to 8)% to Enemy Elemental Resistances",
+          "+100 Defense",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "requirement": ["Required Level: 17", "Required Strength: 36", "Item Level: 39"],
+        "attribute": [
+          "+2 to Barbarian Skill Levels",
+          "Adds (16 to 22)-(24 to 30) fire damage",
+          "Adds 24-36 lightning damage",
+          "Adds (16 to 22)-(24 to 30) cold damage",
+          "-(11 to 13)% to Enemy Elemental Resistances",
+          "+250 Defense",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "requirement": ["Required Level: 36", "Required Strength: 81", "Item Level: 68"],
+        "attribute": [
+          "+3 to Barbarian Skill Levels",
+          "Adds (46 to 60)-(76 to 105) fire damage",
+          "Adds 72-108 lightning damage",
+          "Adds (46 to 60)-(76 to 105) cold damage",
+          "-(16 to 18)% to Enemy Elemental Resistances",
+          "+500 Defense",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "requirement": ["Required Level: 45", "Required Strength: 167", "Item Level: 80"],
+        "attribute": [
+          "+4 to Barbarian Skill Levels",
+          "Adds (121 to 180)-(241 to 300) fire damage",
+          "Adds 288-432 lightning damage",
+          "Adds (121 to 180)-(241 to 300) cold damage",
+          "-(18 to 20)% to Enemy Elemental Resistances",
+          "+1000 Defense",
+          "Socketed (2)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Rockshatter (Balanced Axe)",
+    "img": "https://docs.median-xl.com/images/baseitems/invbal.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Throw Damage: (4 - 5) to (33 - 46)", "One-Hand Damage: (5 - 7) to (25 - 36)"],
+        "requirement": ["Required Level: 6", "Required Strength: 77", "Item Level: 10", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "1% Chance to cast level 7 Blast Wave on Kill",
+          "15% Attack Speed",
+          "+(18 to 40)% Enhanced Damage",
+          "+(11 to 20) to Maximum Damage",
+          "(2 to 3)% Chance of Crushing Blow",
+          "Enhanced Weapon Damage +(31 to 50)%",
+          "+(16 to 25) to Strength",
+          "+(11 to 15) Life after each Kill",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Throw Damage: (19 - 22) to (81 - 98)", "One-Hand Damage: (14 - 16) to (55 - 69)"],
+        "requirement": ["Required Level: 24", "Required Strength: 115", "Item Level: 27", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "2% Chance to cast level 19 Blast Wave on Kill",
+          "15% Attack Speed",
+          "+(64 to 86)% Enhanced Damage",
+          "+(21 to 30) to Maximum Damage",
+          "(4 to 6)% Chance of Crushing Blow",
+          "Enhanced Weapon Damage +(71 to 90)%",
+          "+(36 to 45) to Strength",
+          "+(21 to 25) Life after each Kill",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Throw Damage: (45 - 51) to (154 - 176)", "One-Hand Damage: (29 - 32) to (97 - 114)"],
+        "requirement": ["Required Level: 43", "Required Strength: 225", "Item Level: 48", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "2% Chance to cast level 31 Blast Wave on Kill",
+          "15% Attack Speed",
+          "+(109 to 132)% Enhanced Damage",
+          "+(31 to 40) to Maximum Damage",
+          "(7 to 9)% Chance of Crushing Blow",
+          "Enhanced Weapon Damage +(111 to 130)%",
+          "+(56 to 65) to Strength",
+          "+(31 to 35) Life after each Kill",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Throw Damage: (62 - 68) to (205 - 230)", "One-Hand Damage: (37 - 40) to (126 - 143)"],
+        "requirement": ["Required Level: 53", "Required Strength: 445", "Item Level: 83", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "3% Chance to cast level 37 Blast Wave on Kill",
+          "15% Attack Speed",
+          "+(132 to 154)% Enhanced Damage",
+          "+(41 to 50) to Maximum Damage",
+          "(10 to 12)% Chance of Crushing Blow",
+          "Enhanced Weapon Damage +(131 to 150)%",
+          "+(66 to 75) to Strength",
+          "+(36 to 40) Life after each Kill",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Demoncall (Short Staff)",
+    "img": "https://docs.median-xl.com/images/baseitems/invsst.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: 2 to 4"],
+        "requirement": ["Required Level: 1", "Item Level: 1", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(31 to 50) Energy Factor to Spell Damage",
+          "+(1 to 2) to All Skills",
+          "15% Cast Speed",
+          "+50% Damage to Undead",
+          "Fire Resist +(11 to 15)%",
+          "Poison Resist +(11 to 15)%",
+          "Socketed (1)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: 10 to 12"],
+        "requirement": ["Required Level: 17", "Required Dexterity: 8", "Item Level: 19", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(71 to 90) Energy Factor to Spell Damage",
+          "+(3 to 4) to All Skills",
+          "30% Cast Speed",
+          "+50% Damage to Undead",
+          "Fire Resist +(21 to 25)%",
+          "Poison Resist +(21 to 25)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: 18 to 20"],
+        "requirement": ["Required Level: 36", "Required Dexterity: 25", "Item Level: 39", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(111 to 130) Energy Factor to Spell Damage",
+          "+(5 to 6) to All Skills",
+          "45% Cast Speed",
+          "+50% Damage to Undead",
+          "Fire Resist +(31 to 35)%",
+          "Poison Resist +(31 to 35)%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: 22 to 24"],
+        "requirement": ["Required Level: 45", "Required Dexterity: 52", "Item Level: 71", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(131 to 150) Energy Factor to Spell Damage",
+          "+(7 to 8) to All Skills",
+          "60% Cast Speed",
+          "+50% Damage to Undead",
+          "Fire Resist +(36 to 40)%",
+          "Poison Resist +(36 to 40)%",
+          "Socketed (3)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "The Magister (Long Staff)",
+    "img": "https://docs.median-xl.com/images/baseitems/invlst.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: 6 to 8"],
+        "requirement": ["Required Level: 3", "Required Dexterity: 8", "Item Level: 4", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+1 to All Skills",
+          "+50% Damage to Undead",
+          "+(11 to 13)% to Fire Spell Damage",
+          "+(11 to 13)% to Lightning Spell Damage",
+          "+(3 to 5) to Flash",
+          "+(3 to 5) to Apocalypse",
+          "Lightning Resist +(16 to 25)%",
+          "Fire Resist +(16 to 25)%",
+          "Total Character Defense (11 to 15)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: 13 to 16"],
+        "requirement": ["Required Level: 21", "Required Dexterity: 19", "Item Level: 23", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(2 to 3) to All Skills",
+          "+50% Damage to Undead",
+          "+(16 to 18)% to Fire Spell Damage",
+          "+(16 to 18)% to Lightning Spell Damage",
+          "+(9 to 12) to Flash",
+          "+(9 to 12) to Apocalypse",
+          "Lightning Resist +(36 to 45)%",
+          "Fire Resist +(36 to 45)%",
+          "Total Character Defense (21 to 25)%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: 22 to 26"],
+        "requirement": ["Required Level: 40", "Required Dexterity: 43", "Item Level: 44", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(3 to 4) to All Skills",
+          "+50% Damage to Undead",
+          "+(21 to 23)% to Fire Spell Damage",
+          "+(21 to 23)% to Lightning Spell Damage",
+          "+(19 to 24) to Flash",
+          "+(19 to 24) to Apocalypse",
+          "Lightning Resist +(56 to 65)%",
+          "Fire Resist +(56 to 65)%",
+          "Total Character Defense (31 to 35)%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: 27 to 32"],
+        "requirement": ["Required Level: 49", "Required Dexterity: 88", "Item Level: 77", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(5 to 6) to All Skills",
+          "+50% Damage to Undead",
+          "+(23 to 25)% to Fire Spell Damage",
+          "+(23 to 25)% to Lightning Spell Damage",
+          "+(25 to 30) to Flash",
+          "+(25 to 30) to Apocalypse",
+          "Lightning Resist +(66 to 75)%",
+          "Fire Resist +(66 to 75)%",
+          "Total Character Defense (36 to 40)%",
+          "Socketed (4)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Dubhdroiacht (Gnarled Staff)",
+    "img": "https://docs.median-xl.com/images/baseitems/invcst.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: 8 to 10"],
+        "requirement": ["Required Level: 4", "Required Dexterity: 17", "Item Level: 7", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(36 to 60) Energy Factor to Spell Damage",
+          "+1 to All Skills",
+          "+(10 to 20)% Bonus to Poison Skill Duration",
+          "+50% Damage to Undead",
+          "+3% to Poison Spell Damage",
+          "-(6 to 8)% to Enemy Poison Resistance",
+          "+(11 to 15)% to Summoned Minion Life",
+          "Maximum Life (3 to 5)%",
+          "Total Character Defense (11 to 15)%",
+          "Poison Length Reduced by (21 to 25)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: 16 to 20"],
+        "requirement": ["Required Level: 23", "Required Dexterity: 29", "Item Level: 25", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(86 to 110) Energy Factor to Spell Damage",
+          "+(2 to 3) to All Skills",
+          "+(21 to 30)% Bonus to Poison Skill Duration",
+          "+50% Damage to Undead",
+          "+6% to Poison Spell Damage",
+          "-(11 to 13)% to Enemy Poison Resistance",
+          "+(21 to 25)% to Summoned Minion Life",
+          "Maximum Life (9 to 11)%",
+          "Total Character Defense (21 to 25)%",
+          "Poison Length Reduced by (31 to 35)%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: 26 to 33"],
+        "requirement": ["Required Level: 42", "Required Dexterity: 62", "Item Level: 46", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(136 to 160) Energy Factor to Spell Damage",
+          "+(4 to 5) to All Skills",
+          "+(31 to 40)% Bonus to Poison Skill Duration",
+          "+50% Damage to Undead",
+          "+9% to Poison Spell Damage",
+          "-(16 to 18)% to Enemy Poison Resistance",
+          "+(31 to 35)% to Summoned Minion Life",
+          "Maximum Life (15 to 17)%",
+          "Total Character Defense (31 to 35)%",
+          "Poison Length Reduced by (41 to 45)%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: 32 to 39"],
+        "requirement": ["Required Level: 50", "Required Dexterity: 126", "Item Level: 79", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(161 to 185) Energy Factor to Spell Damage",
+          "+(5 to 6) to All Skills",
+          "+(41 to 50)% Bonus to Poison Skill Duration",
+          "+50% Damage to Undead",
+          "+12% to Poison Spell Damage",
+          "-(18 to 20)% to Enemy Poison Resistance",
+          "+(36 to 40)% to Summoned Minion Life",
+          "Maximum Life (18 to 20)%",
+          "Total Character Defense (36 to 40)%",
+          "Poison Length Reduced by (46 to 50)%",
+          "Socketed (4)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "The Covenant (Battle Staff)",
+    "img": "https://docs.median-xl.com/images/baseitems/invbst.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: 9 to 13"],
+        "requirement": ["Required Level: 6", "Required Dexterity: 25", "Item Level: 10", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+1 to Paladin Skill Levels",
+          "15% Cast Speed",
+          "+50% Damage to Undead",
+          "+(11 to 15)% to Fire Spell Damage",
+          "+(11 to 15)% to Physical/Magic Spell Damage",
+          "+20 Life Regenerated per Second",
+          "Regenerate Mana +20%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: 19 to 25"],
+        "requirement": ["Required Level: 25", "Required Dexterity: 41", "Item Level: 27", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(2 to 3) to Paladin Skill Levels",
+          "25% Cast Speed",
+          "+50% Damage to Undead",
+          "+(21 to 25)% to Fire Spell Damage",
+          "+(21 to 25)% to Physical/Magic Spell Damage",
+          "+30 Life Regenerated per Second",
+          "Regenerate Mana +30%",
+          "Socketed (3)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: 31 to 39"],
+        "requirement": ["Required Level: 43", "Required Dexterity: 83", "Item Level: 48", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(4 to 5) to Paladin Skill Levels",
+          "35% Cast Speed",
+          "+50% Damage to Undead",
+          "+(31 to 35)% to Fire Spell Damage",
+          "+(31 to 35)% to Physical/Magic Spell Damage",
+          "+40 Life Regenerated per Second",
+          "Regenerate Mana +40%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: 36 to 46"],
+        "requirement": ["Required Level: 52", "Required Dexterity: 164", "Item Level: 83", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(5 to 6) to Paladin Skill Levels",
+          "40% Cast Speed",
+          "+50% Damage to Undead",
+          "+(36 to 40)% to Fire Spell Damage",
+          "+(36 to 40)% to Physical/Magic Spell Damage",
+          "+50 Life Regenerated per Second",
+          "Regenerate Mana +50%",
+          "Socketed (4)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Staff of Roses (War Staff)",
+    "img": "https://docs.median-xl.com/images/baseitems/invwst.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: 11 to 15"],
+        "requirement": ["Required Level: 10", "Required Dexterity: 34", "Item Level: 16", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+1 to All Skills",
+          "+(21 to 25)% Bonus to Energy Factor",
+          "10% Cast Speed",
+          "+50% Damage to Undead",
+          "Regenerate Mana +(16 to 25)%",
+          "Lightning Resist +(21 to 25)%",
+          "Fire Resist +(21 to 25)%",
+          "(1 to 2)% Reanimate as: Knight of Death",
+          "+(16 to 25) Life after each Kill",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: 21 to 28"],
+        "requirement": ["Required Level: 29", "Required Dexterity: 51", "Item Level: 32", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(2 to 3) to All Skills",
+          "+(31 to 35)% Bonus to Energy Factor",
+          "30% Cast Speed",
+          "+50% Damage to Undead",
+          "Regenerate Mana +(36 to 45)%",
+          "Lightning Resist +(31 to 35)%",
+          "Fire Resist +(31 to 35)%",
+          "(3 to 4)% Reanimate as: Knight of Death",
+          "+(36 to 45) Life after each Kill",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: 34 to 44"],
+        "requirement": ["Required Level: 47", "Required Dexterity: 102", "Item Level: 52", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(4 to 5) to All Skills",
+          "+(41 to 45)% Bonus to Energy Factor",
+          "50% Cast Speed",
+          "+50% Damage to Undead",
+          "Regenerate Mana +(56 to 65)%",
+          "Lightning Resist +(41 to 45)%",
+          "Fire Resist +(41 to 45)%",
+          "(5 to 6)% Reanimate as: Knight of Death",
+          "+(56 to 65) Life after each Kill",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: 41 to 53"],
+        "requirement": ["Required Level: 54", "Required Dexterity: 202", "Item Level: 86", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
+        "attribute": [
+          "+(5 to 6) to All Skills",
+          "+(46 to 50)% Bonus to Energy Factor",
+          "60% Cast Speed",
+          "+50% Damage to Undead",
+          "Regenerate Mana +(66 to 75)%",
+          "Lightning Resist +(46 to 50)%",
+          "Fire Resist +(46 to 50)%",
+          "(7 to 8)% Reanimate as: Knight of Death",
+          "+(66 to 75) Life after each Kill",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "The Rift Bow (Short Bow)",
+    "img": "https://docs.median-xl.com/images/baseitems/invsbw.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: 2 to 4"],
+        "requirement": ["Required Level: 1", "Required Dexterity: 15", "Item Level: 1", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "5% Chance to cast level 1 Teleport on Striking",
+          "50% Attack Speed",
+          "+(11 to 20)% Enhanced Damage",
+          "(51 to 75)% Bonus to Attack Rating",
+          "Adds 11-15 magic damage",
+          "(3 to 5)% to Dexterity",
+          "Total Character Defense 10%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: 9 to (11 - 12)"],
+        "requirement": ["Required Level: 17", "Required Dexterity: 36", "Item Level: 19", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "7% Chance to cast level 1 Teleport on Striking",
+          "65% Attack Speed",
+          "+(31 to 40)% Enhanced Damage",
+          "(101 to 125)% Bonus to Attack Rating",
+          "Adds 40-45 magic damage",
+          "(9 to 11)% to Dexterity",
+          "Total Character Defense 20%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (24 - 25) to (27 - 28)"],
+        "requirement": ["Required Level: 36", "Required Dexterity: 81", "Item Level: 39", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "9% Chance to cast level 1 Teleport on Striking",
+          "80% Attack Speed",
+          "+(51 to 60)% Enhanced Damage",
+          "(151 to 175)% Bonus to Attack Rating",
+          "Adds 120-135 magic damage",
+          "(15 to 17)% to Dexterity",
+          "Total Character Defense 30%",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (34 - 36) to (37 - 39)"],
+        "requirement": ["Required Level: 45", "Required Dexterity: 167", "Item Level: 71", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "10% Chance to cast level 1 Teleport on Striking",
+          "100% Attack Speed",
+          "+(71 to 80)% Enhanced Damage",
+          "(176 to 200)% Bonus to Attack Rating",
+          "Adds 360-400 magic damage",
+          "(18 to 20)% to Dexterity",
+          "Total Character Defense 40%",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Deadly Hunter (Hunter&apos;s Bow)",
+    "img": "https://docs.median-xl.com/images/baseitems/invhbw.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (4 - 5) to (16 - 17)"],
+        "requirement": ["Required Level: 1", "Required Dexterity: 27", "Item Level: 3", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "100% Attack Speed",
+          "+(31 to 50)% Enhanced Damage",
+          "Adds 1-10 damage",
+          "+(101 to 150)% Damage to Demons",
+          "(6 to 10)% Deadly Strike",
+          "+(1 to 5) to Arrow Swarm",
+          "+20 Life Regenerated per Second",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (17 - 19) to (40 - 43)"],
+        "requirement": ["Required Level: 20", "Required Dexterity: 51", "Item Level: 22", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "100% Attack Speed",
+          "+(61 to 80)% Enhanced Damage",
+          "Adds 1-20 damage",
+          "+(151 to 200)% Damage to Demons",
+          "(11 to 15)% Deadly Strike",
+          "+(6 to 10) to Arrow Swarm",
+          "+30 Life Regenerated per Second",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (39 - 43) to (75 - 80)"],
+        "requirement": ["Required Level: 39", "Required Dexterity: 109", "Item Level: 43", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "100% Attack Speed",
+          "+(91 to 110)% Enhanced Damage",
+          "Adds 1-30 damage",
+          "+(201 to 250)% Damage to Demons",
+          "(16 to 20)% Deadly Strike",
+          "+(11 to 15) to Arrow Swarm",
+          "+40 Life Regenerated per Second",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (56 - 61) to (106 - 112)"],
+        "requirement": ["Required Level: 48", "Required Dexterity: 221", "Item Level: 75", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "100% Attack Speed",
+          "+(121 to 140)% Enhanced Damage",
+          "Adds 1-40 damage",
+          "+(251 to 300)% Damage to Demons",
+          "(21 to 25)% Deadly Strike",
+          "+(16 to 20) to Arrow Swarm",
+          "+50 Life Regenerated per Second",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Magebane (Long Bow)",
+    "img": "https://docs.median-xl.com/images/baseitems/invlbw.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (5 - 6) to (8 - 9)"],
+        "requirement": ["Required Level: 3", "Required Dexterity: 39", "Item Level: 5", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+1 to All Skills",
+          "40% Attack Speed",
+          "+(18 to 29)% Enhanced Damage",
+          "+3 fire damage",
+          "+3 lightning damage",
+          "+3 cold damage",
+          "-10% to Enemy Fire Resistance",
+          "-10% to Enemy Lightning Resistance",
+          "-10% to Enemy Cold Resistance",
+          "Elemental Resists +(11 to 15)%",
+          "+(3 to 5) Mana on Striking",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (18 - 19) to (25 - 27)"],
+        "requirement": ["Required Level: 22", "Required Dexterity: 67", "Item Level: 25", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+2 to All Skills",
+          "50% Attack Speed",
+          "+(41 to 52)% Enhanced Damage",
+          "+13 fire damage",
+          "+13 lightning damage",
+          "+13 cold damage",
+          "-15% to Enemy Fire Resistance",
+          "-15% to Enemy Lightning Resistance",
+          "-15% to Enemy Cold Resistance",
+          "Elemental Resists +(21 to 25)%",
+          "+(8 to 10) Mana on Striking",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (39 - 42) to (50 - 54)"],
+        "requirement": ["Required Level: 40", "Required Dexterity: 137", "Item Level: 45", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+3 to All Skills",
+          "60% Attack Speed",
+          "+(64 to 75)% Enhanced Damage",
+          "+50 fire damage",
+          "+50 lightning damage",
+          "+50 cold damage",
+          "-20% to Enemy Fire Resistance",
+          "-20% to Enemy Lightning Resistance",
+          "-20% to Enemy Cold Resistance",
+          "Elemental Resists +(31 to 35)%",
+          "+(13 to 15) Mana on Striking",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (52 - 55) to (66 - 70)"],
+        "requirement": ["Required Level: 50", "Required Dexterity: 274", "Item Level: 78", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "+4 to All Skills",
+          "70% Attack Speed",
+          "+(75 to 86)% Enhanced Damage",
+          "+100 fire damage",
+          "+100 lightning damage",
+          "+100 cold damage",
+          "-25% to Enemy Fire Resistance",
+          "-25% to Enemy Lightning Resistance",
+          "-25% to Enemy Cold Resistance",
+          "Elemental Resists +(36 to 40)%",
+          "+(16 to 18) Mana on Striking",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Soulraider (Composite Bow)",
+    "img": "https://docs.median-xl.com/images/baseitems/invcbw.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (9 - 10) to (20 - 25)"],
+        "requirement": ["Required Level: 4", "Required Dexterity: 51", "Item Level: 7", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "-10% Attack Speed",
+          "+(31 to 50)% Enhanced Damage",
+          "+(7 to 10) to Maximum Damage",
+          "Slow Target (7 to 10)%",
+          "+(1 to 2) Life on Striking",
+          "+(1 to 2) Mana on Striking",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (25 - 30) to (48 - 63)"],
+        "requirement": ["Required Level: 23", "Required Dexterity: 81", "Item Level: 25", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "-20% Attack Speed",
+          "+(61 to 90)% Enhanced Damage",
+          "+(11 to 20) to Maximum Damage",
+          "Slow Target (12 to 15)%",
+          "+(5 to 6) Life on Striking",
+          "+(5 to 6) Mana on Striking",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (55 - 63) to (93 - 113)"],
+        "requirement": ["Required Level: 41", "Required Dexterity: 165", "Item Level: 46", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "-30% Attack Speed",
+          "+(91 to 120)% Enhanced Damage",
+          "+(21 to 30) to Maximum Damage",
+          "Slow Target (17 to 20)%",
+          "+(7 to 8) Life on Striking",
+          "+(7 to 8) Mana on Striking",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (77 - 87) to (132 - 155)"],
+        "requirement": ["Required Level: 50", "Required Dexterity: 328", "Item Level: 79", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "-40% Attack Speed",
+          "+(121 to 150)% Enhanced Damage",
+          "+(31 to 40) to Maximum Damage",
+          "Slow Target (22 to 25)%",
+          "+(9 to 10) Life on Striking",
+          "+(9 to 10) Mana on Striking",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Buriza-Do Tsuru (Short Battle Bow)",
+    "img": "https://docs.median-xl.com/images/baseitems/invsbb.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "requirement": ["Required Level: 5", "Required Dexterity: 63", "Item Level: 8"],
+        "attribute": [
+          "10% Chance to cast level 10 Countdown on Kill",
+          "15% Attack Speed",
+          "Adds 18-24 lightning damage",
+          "Adds (4 to 7)-(7 to 9) cold damage",
+          "-(11 to 13)% to Enemy Cold Resistance",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "requirement": ["Required Level: 24", "Required Dexterity: 97", "Item Level: 27"],
+        "attribute": [
+          "12% Chance to cast level 20 Countdown on Kill",
+          "25% Attack Speed",
+          "Adds 36-48 lightning damage",
+          "Adds (21 to 25)-(31 to 35) cold damage",
+          "-(16 to 18)% to Enemy Cold Resistance",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "requirement": ["Required Level: 42", "Required Dexterity: 193", "Item Level: 46"],
+        "attribute": [
+          "14% Chance to cast level 30 Countdown on Kill",
+          "35% Attack Speed",
+          "Adds 108-144 lightning damage",
+          "Adds (81 to 100)-(111 to 140) cold damage",
+          "-(21 to 23)% to Enemy Cold Resistance",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "requirement": ["Required Level: 52", "Required Dexterity: 382", "Item Level: 82"],
+        "attribute": [
+          "16% Chance to cast level 40 Countdown on Kill",
+          "40% Attack Speed",
+          "Adds 432-576 lightning damage",
+          "Adds (181 to 200)-(251 to 280) cold damage",
+          "-(23 to 25)% to Enemy Cold Resistance",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Darkplague (Long Battle Bow)",
+    "img": "https://docs.median-xl.com/images/baseitems/invlbb.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: 10 to 15"],
+        "requirement": ["Required Level: 6", "Required Dexterity: 67", "Item Level: 10", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "(41 to 50)% Cast Speed",
+          "-(11 to 13)% to Enemy Poison Resistance",
+          "+(3 to 6) to Poison Flash (Druid Only)",
+          "Poison Resist +(41 to 50)%",
+          "Total Character Defense (31 to 35)%",
+          "+(31 to 35) Life after each Kill",
+          "Requirements -10%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: 22 to 32"],
+        "requirement": ["Required Level: 25", "Required Dexterity: 89", "Item Level: 27", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "(51 to 57)% Cast Speed",
+          "-(16 to 18)% to Enemy Poison Resistance",
+          "+(7 to 10) to Poison Flash (Druid Only)",
+          "Poison Resist +(51 to 57)%",
+          "Total Character Defense (36 to 40)%",
+          "+(36 to 40) Life after each Kill",
+          "Requirements -20%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: 38 to 51"],
+        "requirement": ["Required Level: 43", "Required Dexterity: 154", "Item Level: 48", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "(58 to 65)% Cast Speed",
+          "-(21 to 23)% to Enemy Poison Resistance",
+          "+(11 to 14) to Poison Flash (Druid Only)",
+          "Poison Resist +(58 to 65)%",
+          "Total Character Defense (41 to 45)%",
+          "+(41 to 45) Life after each Kill",
+          "Requirements -30%",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: 45 to 61"],
+        "requirement": ["Required Level: 52", "Required Dexterity: 261", "Item Level: 83", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "(66 to 75)% Cast Speed",
+          "-(23 to 25)% to Enemy Poison Resistance",
+          "+(15 to 18) to Poison Flash (Druid Only)",
+          "Poison Resist +(66 to 75)%",
+          "Total Character Defense (46 to 50)%",
+          "+(46 to 50) Life after each Kill",
+          "Requirements -40%",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Webspinner (Short War Bow)",
+    "img": "https://docs.median-xl.com/images/baseitems/invswb.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (14 - 16) to (32 - 39)"],
+        "requirement": ["Required Level: 8", "Required Dexterity: 73 to 77", "Item Level: 12", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "5% Chance to cast level 5 Arachnomancy on Kill",
+          "3% Chance to cast level 4 Miasma on Striking",
+          "+(18 to 35)% Enhanced Damage",
+          "+(11 to 15) to Maximum Damage",
+          "+(2 to 3)% to Poison Spell Damage",
+          "Maximum Life (3 to 5)%",
+          "Miasma Effect Duration: +2 seconds",
+          "Slows Attacker by (6 to 10)%",
+          "Requirements -(11 to 15)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (38 - 42) to (70 - 85)"],
+        "requirement": ["Required Level: 28", "Required Dexterity: 95 to 100", "Item Level: 31", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "6% Chance to cast level 10 Arachnomancy on Kill",
+          "4% Chance to cast level 10 Miasma on Striking",
+          "+(52 to 69)% Enhanced Damage",
+          "+(16 to 25) to Maximum Damage",
+          "+(5 to 6)% to Poison Spell Damage",
+          "Maximum Life (9 to 11)%",
+          "Miasma Effect Duration: +2 seconds",
+          "Slows Attacker by (11 to 15)%",
+          "Requirements -(21 to 25)%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (76 - 83) to (135 - 153)"],
+        "requirement": ["Required Level: 47", "Required Dexterity: 161 to 171", "Item Level: 52", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "7% Chance to cast level 14 Arachnomancy on Kill",
+          "5% Chance to cast level 16 Miasma on Striking",
+          "+(87 to 103)% Enhanced Damage",
+          "+(31 to 40) to Maximum Damage",
+          "+(8 to 9)% to Poison Spell Damage",
+          "Maximum Life (15 to 17)%",
+          "Miasma Effect Duration: +2 seconds",
+          "Slows Attacker by (21 to 25)%",
+          "Requirements -(31 to 35)%",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (102 - 110) to (179 - 199)"],
+        "requirement": ["Required Level: 54", "Required Dexterity: 294 to 313", "Item Level: 85", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "8% Chance to cast level 18 Arachnomancy on Kill",
+          "6% Chance to cast level 19 Miasma on Striking",
+          "+(104 to 120)% Enhanced Damage",
+          "+(41 to 50) to Maximum Damage",
+          "+(9 to 10)% to Poison Spell Damage",
+          "Maximum Life (18 to 20)%",
+          "Miasma Effect Duration: +2 seconds",
+          "Slows Attacker by (31 to 35)%",
+          "Requirements -(36 to 40)%",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "The Black Dame (Long War Bow)",
+    "img": "https://docs.median-xl.com/images/baseitems/invlwb.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (17 - 20) to (28 - 41)"],
+        "requirement": ["Required Level: 11", "Required Dexterity: 108", "Item Level: 18", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "1% Chance to cast level 1 Barrage on Kill",
+          "30% Attack Speed",
+          "+(35 to 57)% Enhanced Damage",
+          "+(1 to 10) to Maximum Damage",
+          "(11 to 15)% Mana stolen per Hit",
+          "+(5 to 8) to Tantrum",
+          "Slow Target (3 to 5)%",
+          "Total Character Defense (21 to 25)%",
+          "+1% to Experience Gained",
+          "Requirements +10%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (48 - 54) to (81 - 109)"],
+        "requirement": ["Required Level: 30", "Required Dexterity: 200", "Item Level: 33", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "1% Chance to cast level 5 Barrage on Kill",
+          "45% Attack Speed",
+          "+(81 to 103)% Enhanced Damage",
+          "+(11 to 30) to Maximum Damage",
+          "(16 to 20)% Mana stolen per Hit",
+          "+(9 to 12) to Tantrum",
+          "Slow Target (9 to 11)%",
+          "Total Character Defense (31 to 35)%",
+          "+2% to Experience Gained",
+          "Requirements +40%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (101 - 112) to (171 - 204)"],
+        "requirement": ["Required Level: 48", "Required Dexterity: 498", "Item Level: 53", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "1% Chance to cast level 10 Barrage on Kill",
+          "60% Attack Speed",
+          "+(126 to 149)% Enhanced Damage",
+          "+(31 to 50) to Maximum Damage",
+          "(21 to 25)% Mana stolen per Hit",
+          "+(13 to 16) to Tantrum",
+          "Slow Target (15 to 17)%",
+          "Total Character Defense (41 to 45)%",
+          "+2% to Experience Gained",
+          "Requirements +80%",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (134 - 146) to (254 - 300)"],
+        "requirement": ["Required Level: 57", "Required Dexterity: 1357", "Item Level: 90", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": [
+          "1% Chance to cast level 16 Barrage on Kill",
+          "75% Attack Speed",
+          "+(149 to 171)% Enhanced Damage",
+          "+(70 to 100) to Maximum Damage",
+          "(26 to 30)% Mana stolen per Hit",
+          "+(17 to 21) to Tantrum",
+          "Slow Target (18 to 20)%",
+          "Total Character Defense (46 to 50)%",
+          "+3% to Experience Gained",
+          "Requirements +150%",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Runeshatter (Light Crossbow)",
+    "img": "https://docs.median-xl.com/images/baseitems/invlxb.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: 7 to 10"],
+        "requirement": ["Required Level: 3", "Required Strength: 14", "Item Level: 5", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "(31 to 35)% Cast Speed",
+          "+(7 to 10) to Cluster Bomb",
+          "+(21 to 30) to Strength",
+          "+(101 to 200) to Life",
+          "Physical Resist 2%",
+          "Poison Length Reduced by (31 to 35)%",
+          "(31 to 35)% Curse Length Reduction",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: 19 to 26"],
+        "requirement": ["Required Level: 22", "Required Strength: 69", "Item Level: 25", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "(36 to 40)% Cast Speed",
+          "+(12 to 15) to Cluster Bomb",
+          "+(31 to 40) to Strength",
+          "+(201 to 300) to Life",
+          "Physical Resist 4%",
+          "Poison Length Reduced by (36 to 40)%",
+          "(36 to 40)% Curse Length Reduction",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: 36 to 46"],
+        "requirement": ["Required Level: 40", "Required Strength: 144", "Item Level: 45", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "(41 to 45)% Cast Speed",
+          "+(17 to 20) to Cluster Bomb",
+          "+(41 to 50) to Strength",
+          "+(301 to 400) to Life",
+          "Physical Resist 6%",
+          "Poison Length Reduced by (41 to 45)%",
+          "(41 to 45)% Curse Length Reduction",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: 44 to 56"],
+        "requirement": ["Required Level: 50", "Required Strength: 287", "Item Level: 78", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "(46 to 50)% Cast Speed",
+          "+(26 to 30) to Cluster Bomb",
+          "+(51 to 60) to Strength",
+          "+(401 to 500) to Life",
+          "Physical Resist 8%",
+          "Poison Length Reduced by (46 to 50)%",
+          "(46 to 50)% Curse Length Reduction",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "The Barracuda (Crossbow)",
+    "img": "https://docs.median-xl.com/images/baseitems/invmxb.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (12 - 14) to (24 - 31)"],
+        "requirement": ["Required Level: 5", "Required Strength: 66", "Item Level: 8", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+(1 to 2) to Amazon Skill Levels",
+          "+10% Bonus Damage to Bloodlust",
+          "5% Attack Speed",
+          "+(18 to 35)% Enhanced Damage",
+          "+(6 to 10) to Maximum Damage",
+          "25% Bonus to Attack Rating",
+          "(1 to 2)% Chance of Crushing Blow",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (39 - 43) to (69 - 79)"],
+        "requirement": ["Required Level: 24", "Required Strength: 101", "Item Level: 27", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+(2 to 3) to Amazon Skill Levels",
+          "+20% Bonus Damage to Bloodlust",
+          "15% Attack Speed",
+          "+(52 to 69)% Enhanced Damage",
+          "+(16 to 20) to Maximum Damage",
+          "50% Bonus to Attack Rating",
+          "(3 to 4)% Chance of Crushing Blow",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (82 - 89) to (136 - 149)"],
+        "requirement": ["Required Level: 42", "Required Strength: 202", "Item Level: 46", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+(3 to 4) to Amazon Skill Levels",
+          "+30% Bonus Damage to Bloodlust",
+          "25% Attack Speed",
+          "+(87 to 103)% Enhanced Damage",
+          "+(26 to 30) to Maximum Damage",
+          "75% Bonus to Attack Rating",
+          "(5 to 6)% Chance of Crushing Blow",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (106 - 114) to (178 - 194)"],
+        "requirement": ["Required Level: 52", "Required Strength: 401", "Item Level: 82", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "+(5 to 6) to Amazon Skill Levels",
+          "+40% Bonus Damage to Bloodlust",
+          "30% Attack Speed",
+          "+(104 to 120)% Enhanced Damage",
+          "+(36 to 40) to Maximum Damage",
+          "100% Bonus to Attack Rating",
+          "(7 to 8)% Chance of Crushing Blow",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Fallentooth (Heavy Crossbow)",
+    "img": "https://docs.median-xl.com/images/baseitems/invhxb.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (22 - 25) to (40 - 50)"],
+        "requirement": ["Required Level: 8", "Required Strength: 91", "Item Level: 12", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "15% Attack Speed",
+          "+(24 to 43)% Enhanced Damage",
+          "+(8 to 13) to Maximum Damage",
+          "(3 to 5)% Life stolen per Hit",
+          "+(2 to 6) to Summon Fallen",
+          "(7 to 10)% to Strength",
+          "Lightning Resist +(21 to 25)%",
+          "Fire Resist +(21 to 25)%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (63 - 71) to (104 - 119)"],
+        "requirement": ["Required Level: 28", "Required Strength: 134", "Item Level: 31", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "25% Attack Speed",
+          "+(64 to 83)% Enhanced Damage",
+          "+(18 to 23) to Maximum Damage",
+          "(9 to 11)% Life stolen per Hit",
+          "+(12 to 16) to Summon Fallen",
+          "(15 to 18)% to Strength",
+          "Lightning Resist +(31 to 35)%",
+          "Fire Resist +(31 to 35)%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (130 - 142) to (197 - 218)"],
+        "requirement": ["Required Level: 47", "Required Strength: 260", "Item Level: 52", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "35% Attack Speed",
+          "+(104 to 123)% Enhanced Damage",
+          "+(28 to 33) to Maximum Damage",
+          "(15 to 17)% Life stolen per Hit",
+          "+(22 to 26) to Summon Fallen",
+          "(23 to 26)% to Strength",
+          "Lightning Resist +(41 to 45)%",
+          "Fire Resist +(41 to 45)%",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (174 - 189) to (259 - 283)"],
+        "requirement": ["Required Level: 54", "Required Strength: 514", "Item Level: 85", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "50% Attack Speed",
+          "+(124 to 143)% Enhanced Damage",
+          "+(33 to 38) to Maximum Damage",
+          "(18 to 20)% Life stolen per Hit",
+          "+(27 to 31) to Summon Fallen",
+          "(27 to 30)% to Strength",
+          "Lightning Resist +(46 to 50)%",
+          "Fire Resist +(46 to 50)%",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Embershot (Repeating Crossbow)",
+    "img": "https://docs.median-xl.com/images/baseitems/invrxb.jpg",
+    "info": [
+      {
+        "tier": "Tier 1",
+        "damage": ["Two-Hand Damage: (22 - 24) to (36 - 40)"],
+        "requirement": ["Required Level: 11", "Required Strength: 103", "Item Level: 18", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "14% Chance to cast level 8 Flamefront on Kill",
+          "+(30 to 46)% Enhanced Damage",
+          "Adds (11 to 15)-(21 to 25) fire damage",
+          "-(6 to 8)% to Enemy Fire Resistance",
+          "+20 to Strength",
+          "+20 to Vitality",
+          "Fire Absorb 2%",
+          "Socketed (2)"
+        ]
+      },
+      {
+        "tier": "Tier 2",
+        "damage": ["Two-Hand Damage: (60 - 66) to (90 - 99)"],
+        "requirement": ["Required Level: 30", "Required Strength: 150", "Item Level: 33", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "16% Chance to cast level 20 Flamefront on Kill",
+          "+(64 to 80)% Enhanced Damage",
+          "Adds (33 to 50)-(71 to 80) fire damage",
+          "-(11 to 13)% to Enemy Fire Resistance",
+          "+40 to Strength",
+          "+40 to Vitality",
+          "Fire Absorb 3%",
+          "Socketed (4)"
+        ]
+      },
+      {
+        "tier": "Tier 3",
+        "damage": ["Two-Hand Damage: (120 - 130) to (172 - 186)"],
+        "requirement": ["Required Level: 48", "Required Strength: 290", "Item Level: 53", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "18% Chance to cast level 32 Flamefront on Kill",
+          "+(98 to 114)% Enhanced Damage",
+          "Adds (101 to 140)-(211 to 250) fire damage",
+          "-(16 to 18)% to Enemy Fire Resistance",
+          "+60 to Strength",
+          "+60 to Vitality",
+          "Fire Absorb 4%",
+          "Socketed (5)"
+        ]
+      },
+      {
+        "tier": "Tier 4",
+        "damage": ["Two-Hand Damage: (159 - 171) to (219 - 236)"],
+        "requirement": ["Required Level: 57", "Required Strength: 570", "Item Level: 90", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": [
+          "20% Chance to cast level 42 Flamefront on Kill",
+          "+(115 to 132)% Enhanced Damage",
+          "Adds (301 to 400)-(651 to 750) fire damage",
+          "-(21 to 25)% to Enemy Fire Resistance",
+          "+80 to Strength",
+          "+80 to Vitality",
+          "Fire Absorb 5%",
+          "Socketed (6)"
+        ]
+      }
+    ]
+  }
+]
